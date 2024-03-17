@@ -1,0 +1,118 @@
+city,city_ascii,province_id,province_name,lat,lng,population,density,timezone,ranking,postal,id
+Calgary,Calgary,AB,Alberta,51.05,-114.0667,1306784,1592.4,America/Edmonton,1,T1Y T2H T2K T2J T2M T2L T2N T2A T2C T2B T2E T2G T2Y T2X T2Z T2S T2R T2T T2W T2V T3N T3L T3M T3J T3K T3H T3G T3E T3B T3C T3A T3R T3S T3P,1124690423
+Edmonton,Edmonton,AB,Alberta,53.5344,-113.4903,1151635,1320.4,America/Edmonton,1,T5X T5Y T5Z T5P T5R T5S T5T T5V T5W T5H T5J T5K T5L T5M T5N T5A T5B T5C T5E T5G T6Y T6X T6T T6W T6V T6P T6S T6R T6M T6L T6N T6H T6K T6J T6E T6G T6A T6C T6B,1124290735
+Red Deer,Red Deer,AB,Alberta,52.2681,-113.8111,100844,966.5,America/Edmonton,2,T4S T4R T4P T4N,1124404130
+Lethbridge,Lethbridge,AB,Alberta,49.6942,-112.8328,98406,812.5,America/Edmonton,3,T1H T1J T1K,1124321200
+Airdrie,Airdrie,AB,Alberta,51.2917,-114.0144,74100,878.1,America/Edmonton,3,T4B T4A,1124990202
+Wood Buffalo,Wood Buffalo,AB,Alberta,57.6042,-111.3284,72326,1.2,America/Edmonton,3,T9H T9K T9J T0P,1124001123
+St. Albert,St. Albert,AB,Alberta,53.6303,-113.6258,68232,1426.4,America/Edmonton,3,T8N,1124850754
+Grande Prairie,Grande Prairie,AB,Alberta,55.1708,-118.7947,64141,483.3,America/Edmonton,3,T8V T8X T8W,1124505481
+Medicine Hat,Medicine Hat,AB,Alberta,50.0417,-110.6775,63382,565.1,America/Edmonton,3,T1A T1B T1C,1124303972
+Spruce Grove,Spruce Grove,AB,Alberta,53.545,-113.9008,39348,1003.3,America/Edmonton,3,T7X,1124943146
+Leduc,Leduc,AB,Alberta,53.2594,-113.5492,34094,806.9,America/Edmonton,3,T9E,1124170853
+Cochrane,Cochrane,AB,Alberta,51.189,-114.467,32199,1019.5,America/Edmonton,3,T4C,1124952542
+Okotoks,Okotoks,AB,Alberta,50.725,-113.975,30405,788.7,America/Edmonton,3,T1S,1124521470
+Fort Saskatchewan,Fort Saskatchewan,AB,Alberta,53.7128,-113.2133,27088,479.4,America/Edmonton,3,T8L,1124769097
+Chestermere,Chestermere,AB,Alberta,51.05,-113.8225,22163,675,America/Edmonton,3,T1X,1124000371
+Beaumont,Beaumont,AB,Alberta,53.3572,-113.4147,20888,845.6,America/Edmonton,3,T4X,1124001210
+Lloydminster,Lloydminster,AB,Alberta,53.2807,-110.035,19739,823.1,America/Edmonton,3,T9V,1124000858
+Camrose,Camrose,AB,Alberta,53.0167,-112.8333,18772,450.5,America/Edmonton,3,T4V,1124351657
+Stony Plain,Stony Plain,AB,Alberta,53.5264,-114.0069,17993,507.6,America/Edmonton,3,T7Z,1124982081
+Sylvan Lake,Sylvan Lake,AB,Alberta,52.3083,-114.0964,16142,692.8,America/Edmonton,3,T4S,1124397940
+Canmore,Canmore,AB,Alberta,51.089,-115.359,15990,233.5,America/Edmonton,3,T1W,1124688642
+Cold Lake,Cold Lake,AB,Alberta,54.4642,-110.1825,14961,249.7,America/Edmonton,3,T9M,1124089461
+Brooks,Brooks,AB,Alberta,50.5642,-111.8989,14924,819.8,America/Edmonton,3,T1R,1124093123
+Strathmore,Strathmore,AB,Alberta,51.0378,-113.4003,14339,531.5,America/Edmonton,3,T1P,1124000881
+High River,High River,AB,Alberta,50.5808,-113.8744,14324,645.4,America/Edmonton,3,T1V,1124607825
+Lacombe,Lacombe,AB,Alberta,52.4683,-113.7369,13396,650.8,America/Edmonton,3,T4L,1124057569
+Wetaskiwin,Wetaskiwin,AB,Alberta,52.9694,-113.3769,12594,671.6,America/Edmonton,3,T9A,1124492484
+Morinville,Morinville,AB,Alberta,53.8022,-113.6497,10385,931,America/Edmonton,3,T8R,1124322535
+Blackfalds,Blackfalds,AB,Alberta,52.3833,-113.8,10315,567.3,America/Edmonton,3,T0M T4M,1124056144
+Hinton,Hinton,AB,Alberta,53.4114,-117.5639,9882,294.8,America/Edmonton,3,T7V,1124131074
+Whitecourt,Whitecourt,AB,Alberta,54.1417,-115.6833,9195,386,America/Edmonton,3,T7S,1124641551
+Olds,Olds,AB,Alberta,51.7928,-114.1067,9184,615.3,America/Edmonton,3,T4H,1124330412
+Taber,Taber,AB,Alberta,49.7847,-112.1508,8978,537.9,America/Edmonton,3,T1G,1124113583
+Coaldale,Coaldale,AB,Alberta,49.7333,-112.6167,8771,645.9,America/Edmonton,3,T1M,1124989507
+Edson,Edson,AB,Alberta,53.5817,-116.4344,8414,283.1,America/Edmonton,3,T7E,1124553562
+Banff,Banff,AB,Alberta,51.1781,-115.5719,8305,1646,America/Edmonton,3,T1L,1124351648
+Drumheller,Drumheller,AB,Alberta,51.4636,-112.7194,7982,73.9,America/Edmonton,3,T0J,1124745292
+Innisfail,Innisfail,AB,Alberta,52.0333,-113.95,7847,404.6,America/Edmonton,3,T4G,1124612670
+Drayton Valley,Drayton Valley,AB,Alberta,53.2222,-114.9769,7235,235.5,America/Edmonton,3,T7A,1124814220
+Ponoka,Ponoka,AB,Alberta,52.6833,-113.5667,7229,417.1,America/Edmonton,3,T4J,1124308190
+Peace River,Peace River,AB,Alberta,56.2339,-117.2897,6842,260.6,America/Edmonton,3,T8S,1124941936
+Slave Lake,Slave Lake,AB,Alberta,55.2853,-114.7706,6651,460.5,America/Edmonton,3,T0G,1124106662
+Rocky Mountain House,Rocky Mountain House,AB,Alberta,52.3753,-114.9217,6635,521.8,America/Edmonton,3,T4T,1124203206
+Devon,Devon,AB,Alberta,53.3633,-113.7322,6545,459.1,America/Edmonton,3,T9G,1124268366
+Wainwright,Wainwright,AB,Alberta,52.8333,-110.8667,6461,688.7,America/Edmonton,3,T9W,1124385336
+Bonnyville,Bonnyville,AB,Alberta,54.2667,-110.75,6359,421.4,America/Edmonton,3,T9N,1124166469
+Stettler,Stettler,AB,Alberta,52.3236,-112.7192,5952,453,America/Edmonton,3,T0C,1124010388
+St. Paul,St. Paul,AB,Alberta,53.9928,-111.2972,5827,674.2,America/Edmonton,3,T0A,1124528022
+Vegreville,Vegreville,AB,Alberta,53.4928,-112.0522,5708,405.4,America/Edmonton,3,T9C,1124534321
+Crowsnest Pass,Crowsnest Pass,AB,Alberta,49.5955,-114.5136,5589,15,America/Edmonton,4,T0K,1124000595
+Redcliff,Redcliff,AB,Alberta,50.0792,-110.7783,5581,345.5,America/Edmonton,3,T0J,1124603057
+Didsbury,Didsbury,AB,Alberta,51.6658,-114.1311,5268,321.7,America/Edmonton,3,T0M,1124574154
+Westlock,Westlock,AB,Alberta,54.1522,-113.8511,5101,381.4,America/Edmonton,3,T7P,1124037311
+Jasper,Jasper,AB,Alberta,52.9013,-118.1312,4590,5,America/Edmonton,4,T0E,1124533812
+Barrhead,Barrhead,AB,Alberta,54.1167,-114.4,4579,560.4,America/Edmonton,3,T7N,1124181687
+Vermilion,Vermilion,AB,Alberta,53.3542,-110.8528,4084,315.8,America/Edmonton,3,T9X,1124995979
+Carstairs,Carstairs,AB,Alberta,51.5619,-114.0953,4077,342.1,America/Edmonton,3,T0M,1124621475
+Raymond,Raymond,AB,Alberta,49.4658,-112.6508,3942,557.1,America/Edmonton,3,T0K,1124125903
+Claresholm,Claresholm,AB,Alberta,50.0194,-113.5783,3780,465.9,America/Edmonton,3,T0L,1124380878
+Pincher Creek,Pincher Creek,AB,Alberta,49.4861,-113.95,3642,361.1,America/Edmonton,3,T0K,1124252125
+Crossfield,Crossfield,AB,Alberta,51.4333,-114.0333,3599,302.7,America/Edmonton,3,T0M,1124737275
+Cardston,Cardston,AB,Alberta,49.2025,-113.3019,3585,417.5,America/Edmonton,3,T0K,1124479644
+Grande Cache,Grande Cache,AB,Alberta,53.8773,-119.1199,3571,102.1,America/Edmonton,4,,1124001952
+High Level,High Level,AB,Alberta,58.5169,-117.1361,3461,108.2,America/Edmonton,3,T0H,1124099423
+Penhold,Penhold,AB,Alberta,52.1333,-113.8667,3359,619.9,America/Edmonton,3,T0M,1124360682
+Gibbons,Gibbons,AB,Alberta,53.8278,-113.3228,3218,340.1,America/Edmonton,3,T0A,1124001097
+Three Hills,Three Hills,AB,Alberta,51.7072,-113.2647,3212,475.7,America/Edmonton,3,T0M,1124247045
+Fort Macleod,Fort Macleod,AB,Alberta,49.7256,-113.3975,3038,126.8,America/Edmonton,3,T0L,1124975838
+Athabasca,Athabasca,AB,Alberta,54.7197,-113.2856,2965,168,America/Edmonton,3,T9S,1124006333
+Coalhurst,Coalhurst,AB,Alberta,49.7457,-112.9319,2869,931.3,America/Edmonton,3,T0L,1124001548
+Sundre,Sundre,AB,Alberta,51.7972,-114.6406,2729,245.6,America/Edmonton,3,T0M,1124001279
+Grimshaw,Grimshaw,AB,Alberta,56.1908,-117.6117,2718,383.4,America/Edmonton,3,T0H,1124339886
+Black Diamond,Black Diamond,AB,Alberta,50.6881,-114.2333,2700,702.7,America/Edmonton,3,T0L,1124170822
+Sexsmith,Sexsmith,AB,Alberta,55.3508,-118.7825,2620,197.9,America/Edmonton,3,T0H,1124024490
+Rimbey,Rimbey,AB,Alberta,52.6333,-114.2167,2567,225.1,America/Edmonton,3,T0C,1124861733
+High Prairie,High Prairie,AB,Alberta,55.4325,-116.4861,2564,355.3,America/Edmonton,3,T0G,1124163323
+Turner Valley,Turner Valley,AB,Alberta,50.6739,-114.2786,2559,442.1,America/Edmonton,3,T0L,1124557397
+Hanna,Hanna,AB,Alberta,51.6383,-111.9419,2559,290.6,America/Edmonton,3,T0J,1124751402
+Beaverlodge,Beaverlodge,AB,Alberta,55.2094,-119.4292,2465,430.5,America/Edmonton,3,T0H,1124894073
+Magrath,Magrath,AB,Alberta,49.4239,-112.8683,2374,396.4,America/Edmonton,3,T0K,1124735480
+Calmar,Calmar,AB,Alberta,53.25,-113.7833,2183,467.6,America/Edmonton,3,T0C,1124941943
+Nanton,Nanton,AB,Alberta,50.3494,-113.7717,2181,447.8,America/Edmonton,3,T0L,1124418201
+Redwater,Redwater,AB,Alberta,53.9489,-113.1067,2115,106.1,America/Edmonton,3,T0A,1124001733
+Tofield,Tofield,AB,Alberta,53.3703,-112.6667,2081,253.4,America/Edmonton,3,T0B,1124392098
+Provost,Provost,AB,Alberta,52.3539,-110.2686,1998,423,America/Edmonton,3,T0B,1124659213
+Bow Island,Bow Island,AB,Alberta,49.8667,-111.3667,1983,341.6,America/Edmonton,3,T0K,1124002843
+Fox Creek,Fox Creek,AB,Alberta,54.395,-116.8092,1971,159.4,America/Edmonton,3,T0H,1124001709
+Millet,Millet,AB,Alberta,53.0978,-113.4728,1945,522.9,America/Edmonton,3,T0C,1124327149
+Picture Butte,Picture Butte,AB,Alberta,49.8731,-112.78,1930,639.7,America/Edmonton,3,T0K,1124001015
+Vulcan,Vulcan,AB,Alberta,50.4,-113.25,1917,302.3,America/Edmonton,3,T0L,1124607765
+Valleyview,Valleyview,AB,Alberta,55.0686,-117.2683,1863,199.9,America/Edmonton,3,T0H,1124211786
+Lamont,Lamont,AB,Alberta,53.7603,-112.7778,1774,192.8,America/Edmonton,3,T0B,1124567192
+Wabasca,Wabasca,AB,Alberta,55.9855,-113.8566,1594,15.7,America/Edmonton,4,T0G,1124001857
+Springbrook,Springbrook,AB,Alberta,52.1796,-113.885,1534,291.6,America/Edmonton,3,T4S,1124001537
+Wembley,Wembley,AB,Alberta,55.1572,-119.1392,1516,318.9,America/Edmonton,3,T0H,1124957462
+Bon Accord,Bon Accord,AB,Alberta,53.8328,-113.4189,1461,366.4,America/Edmonton,3,T0A,1124764880
+Elk Point,Elk Point,AB,Alberta,53.8967,-110.8972,1452,295.5,America/Edmonton,3,T0A,1124622637
+Nobleford,Nobleford,AB,Alberta,49.8822,-113.0531,1438,848.6,America/Edmonton,3,T0L,1124281605
+Two Hills,Two Hills,AB,Alberta,53.715,-111.7461,1379,400,America/Edmonton,3,T0B,1124512958
+Bruederheim,Bruederheim,AB,Alberta,53.8042,-112.9278,1329,143.2,America/Edmonton,3,T0B,1124027946
+Mayerthorpe,Mayerthorpe,AB,Alberta,53.9503,-115.1336,1320,302.2,America/Edmonton,3,T0E,1124001053
+Swan Hills,Swan Hills,AB,Alberta,54.7106,-115.4133,1301,49.8,America/Edmonton,3,T0G,1124000651
+Vauxhall,Vauxhall,AB,Alberta,50.0689,-112.0975,1286,449.4,America/Edmonton,3,T0K,1124148360
+Bowden,Bowden,AB,Alberta,51.9306,-114.0256,1275,442.8,America/Edmonton,3,T0M,1124945470
+Legal,Legal,AB,Alberta,53.9492,-113.595,1232,387.9,America/Edmonton,3,T0G,1124819805
+Bassano,Bassano,AB,Alberta,50.7833,-112.4667,1206,231.2,America/Edmonton,3,T0J,1124776374
+Manning,Manning,AB,Alberta,56.9142,-117.6272,1183,291.9,America/Edmonton,3,T0H,1124001357
+Irricana,Irricana,AB,Alberta,51.3189,-113.6106,1179,364.6,America/Edmonton,3,T0M,1124968867
+Eckville,Eckville,AB,Alberta,52.3622,-114.3614,1125,703.3,America/Edmonton,3,T0M,1124000793
+Alberta Beach,Alberta Beach,AB,Alberta,53.6767,-114.35,1103,507.1,America/Edmonton,3,T0E,1124000690
+Duchess,Duchess,AB,Alberta,50.7333,-111.9,1085,553.4,America/Edmonton,3,T0J,1124156956
+Viking,Viking,AB,Alberta,53.0953,-111.7769,1083,292.5,America/Edmonton,3,T0B,1124502081
+Bentley,Bentley,AB,Alberta,52.4667,-114.05,1078,482.2,America/Edmonton,3,T0C,1124340912
+Trochu,Trochu,AB,Alberta,51.8236,-113.2328,1058,381.1,America/Edmonton,3,T0M,1124642144
+Falher,Falher,AB,Alberta,55.7372,-117.2014,1047,376.4,America/Edmonton,3,T0H,1124001263
+Onoway,Onoway,AB,Alberta,53.7011,-114.1981,1029,310.3,America/Edmonton,3,T0E,1124983122
+Oyen,Oyen,AB,Alberta,51.3522,-110.4739,1001,189.6,America/Edmonton,3,T0J,1124000494
