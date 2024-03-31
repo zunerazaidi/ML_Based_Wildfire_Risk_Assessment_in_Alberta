@@ -1,0 +1,960 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20230327</CreaDate>
+		<CreaTime>14155800</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<lineage>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\ExportFeatures" Date="20230327" Time="141558" Name="" export="">ExportFeatures AGE_GROUPS "M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb\PED_PROFILE_2023" # NOT_USE_ALIAS "ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,AGE_GROUPS.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,AGE_GROUPS.EDPROV,0,254;Y0_4 "Y0_4" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.Y0_4,-1,-1;PC0_4 "PC0_4" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.PC0_4,-1,-1;Y5_17 "Y5_17" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.Y5_17,-1,-1;PCY5_17 "PC5_17" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.PCY5_17,-1,-1;Y18_24 "Y18_24" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.Y18_24,-1,-1;PCY18_24 "PC18_24" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.PCY18_24,-1,-1;Y25_44 "Y25_44" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.Y25_44,-1,-1;PCY25_44 "PC25_44" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.PCY25_44,-1,-1;Y45_64 "Y45_64" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.Y45_64,-1,-1;PCY45_64 "PC45_64" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.PCY45_64,-1,-1;Y65p "Y65p" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.Y65p,-1,-1;PC65p "PC65p" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.PC65p,-1,-1;TotAgeGr "TotAgeGr" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.TotAgeGr,-1,-1;TOTPC "TOTPC" true true false 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.TOTPC,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,AGE_GROUPS.Shape_Area,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,WORK_ACTIVITY.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.EDPROV,0,254;Average_weeks_worked_in_referen "Average weeks worked in reference year" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.Average_weeks_worked_in_referen,-1,-1;Worked_full_year_full_time "Worked full year full time" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.Worked_full_year_full_time,-1,-1;Worked_part_year_and_or_part_ti "Worked part year and/or part time" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.Worked_part_year_and_or_part_ti,-1,-1;Did_not_work "Did not work" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.Did_not_work,-1,-1;Worked "Worked" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.Worked,-1,-1;Total___Population_aged_15_year "Total - Population aged 15 years and over by work activity durin" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.Total___Population_aged_15_year,-1,-1;MedIncFT "Median employment income in 2020 for full-year full-time wor" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.MedIncFT,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.Shape_Area,-1,-1;PCWorkFYFT "PCWorkFYFT" true true false 8 Double 0 0,First,#,AGE_GROUPS,WORK_ACTIVITY.PCWorkFYFT,-1,-1;OBJECTID "OBJECTID" false true false 4 Long 0 9,First,#,AGE_GROUPS,LANGUAGES.OBJECTID,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,LANGUAGES.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,LANGUAGES.EDPROV,0,254;English "English" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.English,-1,-1;Percent_English "Percent English" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Percent_English,-1,-1;French "French" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.French,-1,-1;Percent_French "Percent French" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Percent_French,-1,-1;Indigenous_languages "Indigenous languages" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Indigenous_languages,-1,-1;Non_official_languages "Non-official languages" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Non_official_languages,-1,-1;Percent_Non_Official "Percent Non Official" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Percent_Non_Official,-1,-1;Official_languages "Official languages" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Official_languages,-1,-1;Single_responses "Single responses" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Single_responses,-1,-1;Total___Language_spoken_most_of "Total - Language spoken most often at home for the total populat" true true false 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Total___Language_spoken_most_of,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,LANGUAGES.Shape_Area,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,LABOUR.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,LABOUR.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,LABOUR.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,LABOUR.EDPROV,0,254;Employment_rate "Employment rate" true true false 8 Double 0 0,First,#,AGE_GROUPS,LABOUR.Employment_rate,-1,-1;Participation_rate "Participation rate" true true false 8 Double 0 0,First,#,AGE_GROUPS,LABOUR.Participation_rate,-1,-1;Unemployment_rate "Unemployment rate" true true false 8 Double 0 0,First,#,AGE_GROUPS,LABOUR.Unemployment_rate,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,LABOUR.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,LABOUR.Shape_Area,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.EDPROV,0,254;First_Nations__North_American_I "First Nations (North American Indian)" true true false 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.First_Nations__North_American_I,-1,-1;Inuk__Inuit_ "Inuk (Inuit)" true true false 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.Inuk__Inuit_,-1,-1;Métis "Métis" true true false 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.Métis,-1,-1;Single_Indigenous_responses "Single Indigenous responses" true true false 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.Single_Indigenous_responses,-1,-1;PC_IndID "PC_IndID" true true false 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.PC_IndID,-1,-1;Indigenous_identity "Indigenous identity" true true false 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.Indigenous_identity,-1,-1;Total___Indigenous_identity_for "Total - Indigenous identity for the population in private househ" true true false 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.Total___Indigenous_identity_for,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,INDIGENOUS_IDENTITY.Shape_Area,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,INCOME.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,INCOME.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,INCOME.EDPROV,0,254;Average_total_income_in_2020_am "Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Average_total_income_in_2020_am,-1,-1;Median_total_income_in_2020_amo "Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Median_total_income_in_2020_amo,-1,-1;Median_total_income_of_economic "Median total income of economic family in 2020" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Median_total_income_of_economic,-1,-1;Median_total_income_of_househol "Median total income of household in 2020" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Median_total_income_of_househol,-1,-1;Number_of_total_income_recipien "Number of total income recipients aged 15 years and over in pr" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Number_of_total_income_recipien,-1,-1;Total___Income_statistics_in_20 "Total - Income statistics in 2020 for the population aged 15 yea" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Total___Income_statistics_in_20,-1,-1;Total_Male___Income_statistics_ "Total Male - Income statistics in 2020 for the population aged 1" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Total_Male___Income_statistics_,-1,-1;Male_Number_of_total_income_rec "Male Number of total income recipients aged 15 years and over" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Male_Number_of_total_income_rec,-1,-1;Male_Median_total_income_in_202 "Male Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Male_Median_total_income_in_202,-1,-1;Male_Average_total_income_in_20 "Male Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Male_Average_total_income_in_20,-1,-1;Total_Female___Income_statistic "Total Female - Income statistics in 2020 for the population aged" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Total_Female___Income_statistic,-1,-1;Female_Number_of_total_income_r "Female Number of total income recipients aged 15 years and ove" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Female_Number_of_total_income_r,-1,-1;Female_Median_total_income_in_2 "Female Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Female_Median_total_income_in_2,-1,-1;Female_Average_total_income_in_ "Female Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Female_Average_total_income_in_,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,INCOME.Shape_Area,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,IMMIGRANT.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,IMMIGRANT.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,IMMIGRANT.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,IMMIGRANT.EDPROV,0,254;Percent_Immigrant "Percent Immigrant" true true false 8 Double 0 0,First,#,AGE_GROUPS,IMMIGRANT.Percent_Immigrant,-1,-1;Immigrants "Immigrants" true true false 8 Double 0 0,First,#,AGE_GROUPS,IMMIGRANT.Immigrants,-1,-1;Non_immigrants "Non-immigrants" true true false 8 Double 0 0,First,#,AGE_GROUPS,IMMIGRANT.Non_immigrants,-1,-1;Total___Immigrant_status_and_pe "Total - Immigrant status and period of immigration for the popul" true true false 8 Double 0 0,First,#,AGE_GROUPS,IMMIGRANT.Total___Immigrant_status_and_pe,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,IMMIGRANT.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,IMMIGRANT.Shape_Area,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,FAMILIES.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.ED_NUMBER,-1,-1;With_children "With children" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.With_children,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,FAMILIES.EDNAME,0,254;Without_children "Without children" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.Without_children,-1,-1;Common_law_couples "Common-law couples" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.Common_law_couples,-1,-1;in_which_the_parent_is_a_man_ "in which the parent is a man+" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.in_which_the_parent_is_a_man_,-1,-1;in_which_the_parent_is_a_woman_ "in which the parent is a woman+" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.in_which_the_parent_is_a_woman_,-1,-1;Married_couples "Married couples" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.Married_couples,-1,-1;Total_couple_families "Total couple families" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.Total_couple_families,-1,-1;PC_OneParentFamilies "PC_OneParentFamilies" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.PC_OneParentFamilies,-1,-1;Total_one_parent_families "Total one-parent families" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.Total_one_parent_families,-1,-1;Total_number_of_census_families "Total number of census families in private households - 100% dat" true true false 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.Total_number_of_census_families,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,FAMILIES.Shape_Area,-1,-1;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,FAMILIES.EDPROV,0,254;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,EDUCATION.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,EDUCATION.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,EDUCATION.EDPROV,0,254;Apprenticeship_certificate "Apprenticeship certificate" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Apprenticeship_certificate,-1,-1;Non_apprenticeship_trades_certi "Non-apprenticeship trades certificate or diploma" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Non_apprenticeship_trades_certi,-1,-1;Apprenticeship_or_trades_certif "Apprenticeship or trades certificate or diploma" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Apprenticeship_or_trades_certif,-1,-1;Bachelor_s_degree "Bachelor's degree" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Bachelor_s_degree,-1,-1;College__CEGEP_or_other_non_uni "College, CEGEP or other non-university certificate or dipl" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.College__CEGEP_or_other_non_uni,-1,-1;Degree_in_medicine__dentistry__ "Degree in medicine, dentistry, veterinary medicine or opto" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Degree_in_medicine__dentistry__,-1,-1;Earned_doctorate "Earned doctorate" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Earned_doctorate,-1,-1;Master_s_degree "Master's degree" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Master_s_degree,-1,-1;University_certificate_or_diplo "University certificate or diploma above bachelor level" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.University_certificate_or_diplo,-1,-1;University_certificate_or_dip_1 "University certificate or diploma below bachelor level" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.University_certificate_or_dip_1,-1,-1;Bachelor_s_degree_or_higher "Bachelor’s degree or higher" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Bachelor_s_degree_or_higher,-1,-1;Postsecondary_certificate_or_di "Postsecondary certificate or diploma below bachelor level" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Postsecondary_certificate_or_di,-1,-1;Percent_High__secondary__school "Percent High (secondary) school diploma or equivalency certifica" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Percent_High__secondary__school,-1,-1;High__secondary__school_diploma "High (secondary) school diploma or equivalency certificate" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.High__secondary__school_diploma,-1,-1;Percent_No_certificate__diploma "Percent No certificate, diploma or degree" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Percent_No_certificate__diploma,-1,-1;No_certificate__diploma_or_degr "No certificate, diploma or degree" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.No_certificate__diploma_or_degr,-1,-1;Percent_Postsecondary_certifica "Percent Postsecondary certificate, diploma or degree" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Percent_Postsecondary_certifica,-1,-1;Postsecondary_certificate__dipl "Postsecondary certificate, diploma or degree" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Postsecondary_certificate__dipl,-1,-1;Total___Highest_certificate__di "Total - Highest certificate, diploma or degree for the populatio" true true false 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Total___Highest_certificate__di,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,EDUCATION.Shape_Area,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,DWELLINGS.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,DWELLINGS.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,DWELLINGS.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,DWELLINGS.EDPROV,0,254;Median_value_of_dwellings____ "Median value of dwellings ($)" true true false 8 Double 0 0,First,#,AGE_GROUPS,DWELLINGS.Median_value_of_dwellings____,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,DWELLINGS.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,DWELLINGS.Shape_Area,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,AGE_GROUPS,CITIZENSHIP.OBJECTID_12,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.ED_NUMBER,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,AGE_GROUPS,CITIZENSHIP.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,AGE_GROUPS,CITIZENSHIP.EDPROV,0,254;PC_Ctzn18p "PC_Ctzn18p" true true false 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.PC_Ctzn18p,-1,-1;Canadian_citizens_aged_18_and_o "Canadian citizens aged 18 and over" true true false 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.Canadian_citizens_aged_18_and_o,-1,-1;Canadian_citizens_aged_under_18 "Canadian citizens aged under 18" true true false 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.Canadian_citizens_aged_under_18,-1,-1;Canadian_citizens "Canadian citizens" true true false 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.Canadian_citizens,-1,-1;Not_Canadian_citizens "Not Canadian citizens" true true false 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.Not_Canadian_citizens,-1,-1;Total___Citizenship_for_the_pop "Total - Citizenship for the population in private households - 2" true true false 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.Total___Citizenship_for_the_pop,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,AGE_GROUPS,CITIZENSHIP.Shape_Area,-1,-1" #</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230327" Time="141942" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;OBJECTID_12&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_1&lt;/field_name&gt;&lt;field_name&gt;EDNAME_1&lt;/field_name&gt;&lt;field_name&gt;EDPROV_1&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_1&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_1&lt;/field_name&gt;&lt;field_name&gt;OBJECTID&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12&lt;/field_name&gt;&lt;field_name&gt;OBJECTID_12_13&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12_13&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12_13&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12_13&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12_13&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12_13&lt;/field_name&gt;&lt;field_name&gt;OBJECTID_12_13_14&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12_13_14&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12_13_14&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12_13_14&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12_13_14&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12_13_14&lt;/field_name&gt;&lt;field_name&gt;OBJECTID_12_13_14_15&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12_13_14_15&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12_13_14_15&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12_13_14_15&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12_13_14_15&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12_13_14_15&lt;/field_name&gt;&lt;field_name&gt;OBJECTID_12_13_14_15_16&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12_13_14_15_16&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12_13_14_15_16&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12_13_14_15_16&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12_13_14_15_16&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12_13_14_15_16&lt;/field_name&gt;&lt;field_name&gt;OBJECTID_12_13_14_15_16_17&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12_13_14_15_16_17&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12_13_14_15_16_17&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12_13_14_15_16_17&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12_13_14_15_16_17&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12_13_14_15_16_17&lt;/field_name&gt;&lt;field_name&gt;OBJECTID_12_13_14_15_16_17_18&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12_13_14_15_16_17_18&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12_13_14_15_16_17_18&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12_13_14_15_16_17_18&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12_13_14_15_16_17_18&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12_13_14_15_16_17_18&lt;/field_name&gt;&lt;field_name&gt;OBJECTID_12_13_14_15_16_17_18_19&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12_13_14_15_16_17_18_19&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12_13_14_15_16_17_18_19&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12_13_14_15_16_17_18_19&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12_13_14_15_16_17_18_19&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12_13_14_15_16_17_18_19&lt;/field_name&gt;&lt;field_name&gt;OBJECTID_12_13_14_15_16_17_18_19_20&lt;/field_name&gt;&lt;field_name&gt;ED_NUMBER_12_13_14_15_16_17_18_19_20&lt;/field_name&gt;&lt;field_name&gt;EDNAME_12_13_14_15_16_17_18_19_20&lt;/field_name&gt;&lt;field_name&gt;EDPROV_12_13_14_15_16_17_18_19_20&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_12_13_14_15_16_17_18_19_20&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_12_13_14_15_16_17_18_19_20&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\ExportFeatures" Date="20230328" Time="112113" Name="" export="">ExportFeatures "Provincial Electoral Division 2019" "M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb\ProvincialElec_ExportFeature" # NOT_USE_ALIAS "EDNAME "EDNAME" true true false 254 Text 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.EDPROV,0,254;First_Nations__North_American_I "First Nations (North American Indian)" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.First_Nations__North_American_I,-1,-1;Inuk__Inuit_ "Inuk (Inuit)" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Inuk__Inuit_,-1,-1;Métis "Métis" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Métis,-1,-1;Single_Indigenous_responses "Single Indigenous responses" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Single_Indigenous_responses,-1,-1;PC_IndID "PC_IndID" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PC_IndID,-1,-1;Indigenous_identity "Indigenous identity" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Indigenous_identity,-1,-1;Total___Indigenous_identity_for "Total - Indigenous identity for the population in private househ" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total___Indigenous_identity_for,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Shape_Area,-1,-1;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.ED_NUMBER,-1,-1;Y0_4 "Y0_4" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Y0_4,-1,-1;PC0_4 "PC0_4" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PC0_4,-1,-1;Y5_17 "Y5_17" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Y5_17,-1,-1;PCY5_17 "PC5_17" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PCY5_17,-1,-1;Y18_24 "Y18_24" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Y18_24,-1,-1;PCY18_24 "PC18_24" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PCY18_24,-1,-1;Y25_44 "Y25_44" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Y25_44,-1,-1;PCY25_44 "PC25_44" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PCY25_44,-1,-1;Y45_64 "Y45_64" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Y45_64,-1,-1;PCY45_64 "PC45_64" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PCY45_64,-1,-1;Y65p "Y65p" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Y65p,-1,-1;PC65p "PC65p" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PC65p,-1,-1;TotAgeGr "TotAgeGr" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.TotAgeGr,-1,-1;TOTPC "TOTPC" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.TOTPC,-1,-1;Average_weeks_worked_in_referen "Average weeks worked in reference year" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Average_weeks_worked_in_referen,-1,-1;Worked_full_year_full_time "Worked full year full time" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Worked_full_year_full_time,-1,-1;Worked_part_year_and_or_part_ti "Worked part year and/or part time" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Worked_part_year_and_or_part_ti,-1,-1;Did_not_work "Did not work" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Did_not_work,-1,-1;Worked "Worked" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Worked,-1,-1;Total___Population_aged_15_year "Total - Population aged 15 years and over by work activity durin" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total___Population_aged_15_year,-1,-1;MedIncFT "Median employment income in 2020 for full-year full-time wor" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.MedIncFT,-1,-1;PCWorkFYFT "PCWorkFYFT" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PCWorkFYFT,-1,-1;English "English" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.English,-1,-1;Percent_English "Percent English" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Percent_English,-1,-1;French "French" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.French,-1,-1;Percent_French "Percent French" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Percent_French,-1,-1;Indigenous_languages "Indigenous languages" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Indigenous_languages,-1,-1;Non_official_languages "Non-official languages" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Non_official_languages,-1,-1;Percent_Non_Official "Percent Non Official" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Percent_Non_Official,-1,-1;Official_languages "Official languages" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Official_languages,-1,-1;Single_responses "Single responses" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Single_responses,-1,-1;Total___Language_spoken_most_of "Total - Language spoken most often at home for the total populat" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total___Language_spoken_most_of,-1,-1;Employment_rate "Employment rate" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Employment_rate,-1,-1;Participation_rate "Participation rate" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Participation_rate,-1,-1;Unemployment_rate "Unemployment rate" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Unemployment_rate,-1,-1;Average_total_income_in_2020_am "Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Average_total_income_in_2020_am,-1,-1;Median_total_income_in_2020_amo "Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Median_total_income_in_2020_amo,-1,-1;Median_total_income_of_economic "Median total income of economic family in 2020" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Median_total_income_of_economic,-1,-1;Median_total_income_of_househol "Median total income of household in 2020" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Median_total_income_of_househol,-1,-1;Number_of_total_income_recipien "Number of total income recipients aged 15 years and over in pr" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Number_of_total_income_recipien,-1,-1;Total___Income_statistics_in_20 "Total - Income statistics in 2020 for the population aged 15 yea" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total___Income_statistics_in_20,-1,-1;Total_Male___Income_statistics_ "Total Male - Income statistics in 2020 for the population aged 1" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total_Male___Income_statistics_,-1,-1;Male_Number_of_total_income_rec "Male Number of total income recipients aged 15 years and over" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Male_Number_of_total_income_rec,-1,-1;Male_Median_total_income_in_202 "Male Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Male_Median_total_income_in_202,-1,-1;Male_Average_total_income_in_20 "Male Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Male_Average_total_income_in_20,-1,-1;Total_Female___Income_statistic "Total Female - Income statistics in 2020 for the population aged" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total_Female___Income_statistic,-1,-1;Female_Number_of_total_income_r "Female Number of total income recipients aged 15 years and ove" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Female_Number_of_total_income_r,-1,-1;Female_Median_total_income_in_2 "Female Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Female_Median_total_income_in_2,-1,-1;Female_Average_total_income_in_ "Female Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Female_Average_total_income_in_,-1,-1;Percent_Immigrant "Percent Immigrant" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Percent_Immigrant,-1,-1;Immigrants "Immigrants" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Immigrants,-1,-1;Non_immigrants "Non-immigrants" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Non_immigrants,-1,-1;Total___Immigrant_status_and_pe "Total - Immigrant status and period of immigration for the popul" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total___Immigrant_status_and_pe,-1,-1;With_children "With children" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.With_children,-1,-1;Without_children "Without children" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Without_children,-1,-1;Common_law_couples "Common-law couples" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Common_law_couples,-1,-1;in_which_the_parent_is_a_man_ "in which the parent is a man+" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.in_which_the_parent_is_a_man_,-1,-1;in_which_the_parent_is_a_woman_ "in which the parent is a woman+" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.in_which_the_parent_is_a_woman_,-1,-1;Married_couples "Married couples" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Married_couples,-1,-1;Total_couple_families "Total couple families" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total_couple_families,-1,-1;PC_OneParentFamilies "PC_OneParentFamilies" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PC_OneParentFamilies,-1,-1;Total_one_parent_families "Total one-parent families" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total_one_parent_families,-1,-1;Total_number_of_census_families "Total number of census families in private households - 100% dat" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total_number_of_census_families,-1,-1;Apprenticeship_certificate "Apprenticeship certificate" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Apprenticeship_certificate,-1,-1;Non_apprenticeship_trades_certi "Non-apprenticeship trades certificate or diploma" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Non_apprenticeship_trades_certi,-1,-1;Apprenticeship_or_trades_certif "Apprenticeship or trades certificate or diploma" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Apprenticeship_or_trades_certif,-1,-1;Bachelor_s_degree "Bachelor's degree" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Bachelor_s_degree,-1,-1;College__CEGEP_or_other_non_uni "College, CEGEP or other non-university certificate or dipl" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.College__CEGEP_or_other_non_uni,-1,-1;Degree_in_medicine__dentistry__ "Degree in medicine, dentistry, veterinary medicine or opto" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Degree_in_medicine__dentistry__,-1,-1;Earned_doctorate "Earned doctorate" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Earned_doctorate,-1,-1;Master_s_degree "Master's degree" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Master_s_degree,-1,-1;University_certificate_or_diplo "University certificate or diploma above bachelor level" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.University_certificate_or_diplo,-1,-1;University_certificate_or_dip_1 "University certificate or diploma below bachelor level" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.University_certificate_or_dip_1,-1,-1;Bachelor_s_degree_or_higher "Bachelor’s degree or higher" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Bachelor_s_degree_or_higher,-1,-1;Postsecondary_certificate_or_di "Postsecondary certificate or diploma below bachelor level" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Postsecondary_certificate_or_di,-1,-1;Percent_High__secondary__school "Percent High (secondary) school diploma or equivalency certifica" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Percent_High__secondary__school,-1,-1;High__secondary__school_diploma "High (secondary) school diploma or equivalency certificate" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.High__secondary__school_diploma,-1,-1;Percent_No_certificate__diploma "Percent No certificate, diploma or degree" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Percent_No_certificate__diploma,-1,-1;No_certificate__diploma_or_degr "No certificate, diploma or degree" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.No_certificate__diploma_or_degr,-1,-1;Percent_Postsecondary_certifica "Percent Postsecondary certificate, diploma or degree" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Percent_Postsecondary_certifica,-1,-1;Postsecondary_certificate__dipl "Postsecondary certificate, diploma or degree" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Postsecondary_certificate__dipl,-1,-1;Total___Highest_certificate__di "Total - Highest certificate, diploma or degree for the populatio" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total___Highest_certificate__di,-1,-1;Median_value_of_dwellings____ "Median value of dwellings ($)" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Median_value_of_dwellings____,-1,-1;PC_Ctzn18p "PC_Ctzn18p" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.PC_Ctzn18p,-1,-1;Canadian_citizens_aged_18_and_o "Canadian citizens aged 18 and over" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Canadian_citizens_aged_18_and_o,-1,-1;Canadian_citizens_aged_under_18 "Canadian citizens aged under 18" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Canadian_citizens_aged_under_18,-1,-1;Canadian_citizens "Canadian citizens" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Canadian_citizens,-1,-1;Not_Canadian_citizens "Not Canadian citizens" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Not_Canadian_citizens,-1,-1;Total___Citizenship_for_the_pop "Total - Citizenship for the population in private households - 2" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,PED_PROFILE_2023.Total___Citizenship_for_the_pop,-1,-1;OBJECTID_12 "OBJECTID_12" false true false 4 Long 0 9,First,#,Provincial Electoral Division 2019,Visible_Minority.OBJECTID_12,-1,-1;ED_Number "ED_Number" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.ED_Number,-1,-1;EDNAME "EDNAME" true true false 254 Text 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.EDPROV,0,254;Arab "Arab" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Arab,-1,-1;Black "Black" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Black,-1,-1;Chinese "Chinese" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Chinese,-1,-1;Filipino "Filipino" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Filipino,-1,-1;Japanese "Japanese" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Japanese,-1,-1;Korean "Korean" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Korean,-1,-1;Latin_American "Latin American" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Latin_American,-1,-1;Multiple_visible_minorities "Multiple visible minorities" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Multiple_visible_minorities,-1,-1;South_Asian "South Asian" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.South_Asian,-1,-1;Southeast_Asian "Southeast Asian" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Southeast_Asian,-1,-1;Visible_minority__n_i_e_ "Visible minority, n#i#e#" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Visible_minority__n_i_e_,-1,-1;West_Asian "West Asian" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.West_Asian,-1,-1;Not_a_visible_minority "Not a visible minority" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Not_a_visible_minority,-1,-1;Percentage_of_Visible_Minority "Percentage of Visible Minority" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Percentage_of_Visible_Minority,-1,-1;Total_visible_minority_populati "Total visible minority population" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Total_visible_minority_populati,-1,-1;Total___Visible_minority_for_th "Total - Visible minority for the population in private household" true true false 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Total___Visible_minority_for_th,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,Provincial Electoral Division 2019,Visible_Minority.Shape_Area,-1,-1" #</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\Rename" Date="20230328" Time="112223" Name="" export="">Rename "M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb\ProvincialElec_ExportFeature" "M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb\PED_PROFILE_2023" FeatureClass</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230328" Time="112333" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;OBJECTID_12&lt;/field_name&gt;&lt;field_name&gt;ED_Number_1&lt;/field_name&gt;&lt;field_name&gt;EDNAME_1&lt;/field_name&gt;&lt;field_name&gt;EDPROV_1&lt;/field_name&gt;&lt;field_name&gt;Shape_Length_1&lt;/field_name&gt;&lt;field_name&gt;Shape_Area_1&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230328" Time="141904" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;LoInc_All&lt;/field_name&gt;&lt;field_type&gt;DOUBLE&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;LoInc0_5&lt;/field_name&gt;&lt;field_type&gt;LONG&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;LoInc65M&lt;/field_name&gt;&lt;field_type&gt;LONG&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;LoInc65F&lt;/field_name&gt;&lt;field_type&gt;LONG&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230328" Time="142429" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;LoInc0_5&lt;/field_name&gt;&lt;field_name&gt;LoInc65M&lt;/field_name&gt;&lt;field_name&gt;LoInc65F&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230328" Time="145456" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;LoInc_0_5&lt;/field_name&gt;&lt;field_type&gt;DOUBLE&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;LoInc_65M&lt;/field_name&gt;&lt;field_type&gt;DOUBLE&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;LoInc_65F&lt;/field_name&gt;&lt;field_type&gt;DOUBLE&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="132648" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;TotalPopulation&lt;/field_name&gt;&lt;field_type&gt;DOUBLE&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;MenPlusPop&lt;/field_name&gt;&lt;field_type&gt;DOUBLE&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;WomenPlusPop&lt;/field_name&gt;&lt;field_type&gt;DOUBLE&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="133231" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;First_Nations__North_American_I&lt;/field_name&gt;&lt;new_field_name&gt;TotFirstNations&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Inuk__Inuit_&lt;/field_name&gt;&lt;new_field_name&gt;TotInuk_Inuit&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Métis&lt;/field_name&gt;&lt;new_field_name&gt;TotMétis&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Single_Indigenous_responses&lt;/field_name&gt;&lt;new_field_name&gt;SingleIndRes&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Indigenous_identity&lt;/field_name&gt;&lt;new_field_name&gt;TotIndID&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="133419" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;Total___Indigenous_identity_for&lt;/field_name&gt;&lt;field_name&gt;TOTPC&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="134410" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;Visible_minority__n_i_e_&lt;/field_name&gt;&lt;field_name&gt;Total___Visible_minority_for_th&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Latin_American&lt;/field_name&gt;&lt;new_field_name&gt;Latin_Am&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Multiple_visible_minorities&lt;/field_name&gt;&lt;new_field_name&gt;MulVisMino&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Not_a_visible_minority&lt;/field_name&gt;&lt;new_field_name&gt;NotVisMino&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total_visible_minority_populati&lt;/field_name&gt;&lt;new_field_name&gt;TotVisMinoPop&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="135317" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;With_children&lt;/field_name&gt;&lt;new_field_name&gt;W_Children&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Without_children&lt;/field_name&gt;&lt;new_field_name&gt;No_Children&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Common_law_couples&lt;/field_name&gt;&lt;new_field_name&gt;Common_law&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;in_which_the_parent_is_a_man_&lt;/field_name&gt;&lt;new_field_name&gt;Man1ParFam&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;in_which_the_parent_is_a_woman_&lt;/field_name&gt;&lt;new_field_name&gt;Women1ParFam&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total_couple_families&lt;/field_name&gt;&lt;new_field_name&gt;TotCoupleFam&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PC_OneParentFamilies&lt;/field_name&gt;&lt;new_field_name&gt;PC1ParFam&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total_one_parent_families&lt;/field_name&gt;&lt;new_field_name&gt;Tot1ParFam&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total_number_of_census_families&lt;/field_name&gt;&lt;new_field_name&gt;TotCensusFam&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="135538" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Median_value_of_dwellings____&lt;/field_name&gt;&lt;new_field_name&gt;MedVal&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="140944" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;Single_responses&lt;/field_name&gt;&lt;field_name&gt;Total___Language_spoken_most_of&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Percent_English&lt;/field_name&gt;&lt;new_field_name&gt;PC_English&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Percent_French&lt;/field_name&gt;&lt;new_field_name&gt;PC_French&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Indigenous_languages&lt;/field_name&gt;&lt;new_field_name&gt;Ind_lang&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Non_official_languages&lt;/field_name&gt;&lt;new_field_name&gt;Non_official_lang&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Percent_Non_Official&lt;/field_name&gt;&lt;new_field_name&gt;PC_Non_Official&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Official_languages&lt;/field_name&gt;&lt;new_field_name&gt;Official_lang&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="141304" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;Total___Immigrant_status_and_pe&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Percent_Immigrant&lt;/field_name&gt;&lt;new_field_name&gt;PC_Immigrant&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="141643" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;Total___Citizenship_for_the_pop&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Canadian_citizens_aged_18_and_o&lt;/field_name&gt;&lt;new_field_name&gt;CanCtznsO18&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Canadian_citizens_aged_under_18&lt;/field_name&gt;&lt;new_field_name&gt;CanCtznsU18&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Canadian_citizens&lt;/field_name&gt;&lt;new_field_name&gt;TotCan_Ctzns&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Not_Canadian_citizens&lt;/field_name&gt;&lt;new_field_name&gt;Not_Can_Ctzns&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="142414" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Apprenticeship_certificate&lt;/field_name&gt;&lt;new_field_name&gt;AppCert&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Non_apprenticeship_trades_certi&lt;/field_name&gt;&lt;new_field_name&gt;Non_AppCert&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Apprenticeship_or_trades_certif&lt;/field_name&gt;&lt;new_field_name&gt;AppCertTra_Dip&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Bachelor_s_degree&lt;/field_name&gt;&lt;new_field_name&gt;Bach_Deg&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;College__CEGEP_or_other_non_uni&lt;/field_name&gt;&lt;new_field_name&gt;Coll_CEGEP&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Degree_in_medicine__dentistry__&lt;/field_name&gt;&lt;new_field_name&gt;MedDentVet&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Earned_doctorate&lt;/field_name&gt;&lt;new_field_name&gt;Doc&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Master_s_degree&lt;/field_name&gt;&lt;new_field_name&gt;Masters&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;University_certificate_or_diplo&lt;/field_name&gt;&lt;new_field_name&gt;Uni_Cert_Bach&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;University_certificate_or_dip_1&lt;/field_name&gt;&lt;new_field_name&gt;Uni_Cert_UBach&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Bachelor_s_degree_or_higher&lt;/field_name&gt;&lt;new_field_name&gt;BachDeg_Over&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Postsecondary_certificate_or_di&lt;/field_name&gt;&lt;new_field_name&gt;PostSecDipUBach&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Percent_High__secondary__school&lt;/field_name&gt;&lt;new_field_name&gt;PC_HS_Dip&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;High__secondary__school_diploma&lt;/field_name&gt;&lt;new_field_name&gt;Tot_HS_Dip&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Percent_No_certificate__diploma&lt;/field_name&gt;&lt;new_field_name&gt;PC_No_Cert_Dip&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="142704" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PostSecDipUBach&lt;/field_name&gt;&lt;new_field_name&gt;PSC_DipUBach&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;No_certificate__diploma_or_degr&lt;/field_name&gt;&lt;new_field_name&gt;No_Cert_Dip_Deg&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Percent_Postsecondary_certifica&lt;/field_name&gt;&lt;new_field_name&gt;PC_PSC_Dip_Deg&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Postsecondary_certificate__dipl&lt;/field_name&gt;&lt;new_field_name&gt;PSC_Dip_deg&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total___Highest_certificate__di&lt;/field_name&gt;&lt;new_field_name&gt;TotCertDipDeg&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="143019" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Employment_rate&lt;/field_name&gt;&lt;new_field_name&gt;EmpRate&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Participation_rate&lt;/field_name&gt;&lt;new_field_name&gt;PartRate&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Unemployment_rate&lt;/field_name&gt;&lt;new_field_name&gt;UnEmpRate&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="144032" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Average_weeks_worked_in_referen&lt;/field_name&gt;&lt;new_field_name&gt;AveWeeksWrk&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Worked_full_year_full_time&lt;/field_name&gt;&lt;new_field_name&gt;WrkFTFY&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Worked_part_year_and_or_part_ti&lt;/field_name&gt;&lt;new_field_name&gt;WrkPTPY&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Did_not_work&lt;/field_name&gt;&lt;new_field_name&gt;NoWork&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Worked&lt;/field_name&gt;&lt;new_field_name&gt;Worked&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total___Population_aged_15_year&lt;/field_name&gt;&lt;new_field_name&gt;TotPop15pWrk&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Average_total_income_in_2020_am&lt;/field_name&gt;&lt;new_field_name&gt;AvgIncTot2020&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Median_total_income_in_2020_amo&lt;/field_name&gt;&lt;new_field_name&gt;MedIncTot2020&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Median_total_income_of_economic&lt;/field_name&gt;&lt;new_field_name&gt;MedIncTotFam2020&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Median_total_income_of_househol&lt;/field_name&gt;&lt;new_field_name&gt;MedTotIncHse2020&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Number_of_total_income_recipien&lt;/field_name&gt;&lt;new_field_name&gt;NumTotIncRec15p&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total___Income_statistics_in_20&lt;/field_name&gt;&lt;new_field_name&gt;TotIncStats15p&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total_Male___Income_statistics_&lt;/field_name&gt;&lt;new_field_name&gt;TotMIncStats15p&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Male_Number_of_total_income_rec&lt;/field_name&gt;&lt;new_field_name&gt;NumTotMIncRec15p&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="144233" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Male_Median_total_income_in_202&lt;/field_name&gt;&lt;new_field_name&gt;MedTotMInc&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Male_Average_total_income_in_20&lt;/field_name&gt;&lt;new_field_name&gt;AvgTotMInc&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Total_Female___Income_statistic&lt;/field_name&gt;&lt;new_field_name&gt;TotFIncStats15p&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Female_Number_of_total_income_r&lt;/field_name&gt;&lt;new_field_name&gt;NumTotFIncRec15p&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Female_Median_total_income_in_2&lt;/field_name&gt;&lt;new_field_name&gt;MedTotFInc&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Female_Average_total_income_in_&lt;/field_name&gt;&lt;new_field_name&gt;AvgTotFInc&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="144518" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_PROFILE_2023&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Percentage_of_Visible_Minority&lt;/field_name&gt;&lt;new_field_name&gt;PC_VisMino&lt;/new_field_name&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20230330" Time="151710" Name="" export="">FeatureClassToFeatureClass PED_PROFILE_2023 "M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb" PED_Profile # "EDNAME "EDNAME" true true false 254 Text 0 0,First,#,PED_PROFILE_2023,EDNAME,0,254;EDPROV "EDPROV" true true false 254 Text 0 0,First,#,PED_PROFILE_2023,EDPROV,0,254;ED_NUMBER "ED_NUMBER" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,ED_NUMBER,-1,-1;TotalPopulation "TotalPopulation" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotalPopulation,-1,-1;MenPlusPop "MenPlusPop" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MenPlusPop,-1,-1;WomenPlusPop "WomenPlusPop" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,WomenPlusPop,-1,-1;TotAgeGr "TotAgeGr" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotAgeGr,-1,-1;Y0_4 "Y0_4" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Y0_4,-1,-1;PC0_4 "PC0_4" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC0_4,-1,-1;Y5_17 "Y5_17" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Y5_17,-1,-1;PCY5_17 "PC5_17" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PCY5_17,-1,-1;Y18_24 "Y18_24" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Y18_24,-1,-1;PCY18_24 "PC18_24" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PCY18_24,-1,-1;Y25_44 "Y25_44" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Y25_44,-1,-1;PCY25_44 "PC25_44" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PCY25_44,-1,-1;Y45_64 "Y45_64" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Y45_64,-1,-1;PCY45_64 "PC45_64" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PCY45_64,-1,-1;Y65p "Y65p" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Y65p,-1,-1;PC65p "PC65p" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC65p,-1,-1;TotIndID "Indigenous identity" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotIndID,-1,-1;PC_IndID "PC_IndID" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_IndID,-1,-1;TotFirstNations "First Nations (North American Indian)" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotFirstNations,-1,-1;TotInuk_Inuit "Inuk (Inuit)" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotInuk_Inuit,-1,-1;TotMétis "Métis" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotMétis,-1,-1;SingleIndRes "Single Indigenous responses" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,SingleIndRes,-1,-1;TotVisMinoPop "Total visible minority population" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotVisMinoPop,-1,-1;PC_VisMino "Percentage of Visible Minority" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_VisMino,-1,-1;Arab "Arab" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Arab,-1,-1;Black "Black" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Black,-1,-1;Chinese "Chinese" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Chinese,-1,-1;Filipino "Filipino" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Filipino,-1,-1;Japanese "Japanese" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Japanese,-1,-1;Korean "Korean" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Korean,-1,-1;South_Asian "South Asian" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,South_Asian,-1,-1;Southeast_Asian "Southeast Asian" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Southeast_Asian,-1,-1;West_Asian "West Asian" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,West_Asian,-1,-1;Latin_Am "Latin American" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Latin_Am,-1,-1;MulVisMino "Multiple visible minorities" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MulVisMino,-1,-1;NotVisMino "Not a visible minority" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,NotVisMino,-1,-1;TotCensusFam "Total number of census families in private households - 100% dat" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotCensusFam,-1,-1;TotCoupleFam "Total couple families" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotCoupleFam,-1,-1;Married_couples "Married couples" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Married_couples,-1,-1;Common_law "Common-law couples" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Common_law,-1,-1;Tot1ParFam "Total one-parent families" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Tot1ParFam,-1,-1;PC1ParFam "PC_OneParentFamilies" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC1ParFam,-1,-1;Man1ParFam "in which the parent is a man+" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Man1ParFam,-1,-1;Women1ParFam "in which the parent is a woman+" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Women1ParFam,-1,-1;W_Children "With children" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,W_Children,-1,-1;No_Children "Without children" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,No_Children,-1,-1;MedVal "Median value of dwellings ($)" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MedVal,-1,-1;Official_lang "Official languages" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Official_lang,-1,-1;Non_official_lang "Non-official languages" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Non_official_lang,-1,-1;PC_Non_Official "Percent Non Official" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_Non_Official,-1,-1;English "English" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,English,-1,-1;PC_English "Percent English" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_English,-1,-1;French "French" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,French,-1,-1;PC_French "Percent French" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_French,-1,-1;Ind_lang "Indigenous languages" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Ind_lang,-1,-1;AveWeeksWrk "Average weeks worked in reference year" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,AveWeeksWrk,-1,-1;WrkFTFY "Worked full year full time" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,WrkFTFY,-1,-1;WrkPTPY "Worked part year and/or part time" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,WrkPTPY,-1,-1;NoWork "Did not work" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,NoWork,-1,-1;Worked "Worked" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Worked,-1,-1;TotPop15pWrk "Total - Population aged 15 years and over by work activity durin" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotPop15pWrk,-1,-1;MedIncFT "Median employment income in 2020 for full-year full-time wor" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MedIncFT,-1,-1;PCWorkFYFT "PCWorkFYFT" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PCWorkFYFT,-1,-1;EmpRate "Employment rate" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,EmpRate,-1,-1;PartRate "Participation rate" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PartRate,-1,-1;UnEmpRate "Unemployment rate" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,UnEmpRate,-1,-1;AvgIncTot2020 "Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,AvgIncTot2020,-1,-1;MedIncTot2020 "Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MedIncTot2020,-1,-1;MedIncTotFam2020 "Median total income of economic family in 2020" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MedIncTotFam2020,-1,-1;MedTotIncHse2020 "Median total income of household in 2020" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MedTotIncHse2020,-1,-1;NumTotIncRec15p "Number of total income recipients aged 15 years and over in pr" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,NumTotIncRec15p,-1,-1;TotIncStats15p "Total - Income statistics in 2020 for the population aged 15 yea" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotIncStats15p,-1,-1;TotMIncStats15p "Total Male - Income statistics in 2020 for the population aged 1" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotMIncStats15p,-1,-1;NumTotMIncRec15p "Male Number of total income recipients aged 15 years and over" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,NumTotMIncRec15p,-1,-1;MedTotMInc "Male Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MedTotMInc,-1,-1;AvgTotMInc "Male Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,AvgTotMInc,-1,-1;TotFIncStats15p "Total Female - Income statistics in 2020 for the population aged" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotFIncStats15p,-1,-1;NumTotFIncRec15p "Female Number of total income recipients aged 15 years and ove" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,NumTotFIncRec15p,-1,-1;MedTotFInc "Female Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MedTotFInc,-1,-1;AvgTotFInc "Female Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,AvgTotFInc,-1,-1;PC_Immigrant "Percent Immigrant" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_Immigrant,-1,-1;Immigrants "Immigrants" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Immigrants,-1,-1;Non_immigrants "Non-immigrants" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Non_immigrants,-1,-1;TotCertDipDeg "Total - Highest certificate, diploma or degree for the populatio" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotCertDipDeg,-1,-1;PSC_Dip_deg "Postsecondary certificate, diploma or degree" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PSC_Dip_deg,-1,-1;AppCert "Apprenticeship certificate" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,AppCert,-1,-1;Non_AppCert "Non-apprenticeship trades certificate or diploma" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Non_AppCert,-1,-1;AppCertTra_Dip "Apprenticeship or trades certificate or diploma" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,AppCertTra_Dip,-1,-1;Bach_Deg "Bachelor's degree" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Bach_Deg,-1,-1;Coll_CEGEP "College, CEGEP or other non-university certificate or dipl" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Coll_CEGEP,-1,-1;MedDentVet "Degree in medicine, dentistry, veterinary medicine or opto" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,MedDentVet,-1,-1;Doc "Earned doctorate" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Doc,-1,-1;Masters "Master's degree" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Masters,-1,-1;Uni_Cert_Bach "University certificate or diploma above bachelor level" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Uni_Cert_Bach,-1,-1;Uni_Cert_UBach "University certificate or diploma below bachelor level" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Uni_Cert_UBach,-1,-1;BachDeg_Over "Bachelor’s degree or higher" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,BachDeg_Over,-1,-1;PSC_DipUBach "Postsecondary certificate or diploma below bachelor level" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PSC_DipUBach,-1,-1;PC_HS_Dip "Percent High (secondary) school diploma or equivalency certifica" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_HS_Dip,-1,-1;Tot_HS_Dip "High (secondary) school diploma or equivalency certificate" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Tot_HS_Dip,-1,-1;PC_No_Cert_Dip "Percent No certificate, diploma or degree" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_No_Cert_Dip,-1,-1;No_Cert_Dip_Deg "No certificate, diploma or degree" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,No_Cert_Dip_Deg,-1,-1;PC_PSC_Dip_Deg "Percent Postsecondary certificate, diploma or degree" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_PSC_Dip_Deg,-1,-1;TotCan_Ctzns "Canadian citizens" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,TotCan_Ctzns,-1,-1;PC_Ctzn18p "PC_Ctzn18p" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,PC_Ctzn18p,-1,-1;Not_Can_Ctzns "Not Canadian citizens" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,Not_Can_Ctzns,-1,-1;CanCtznsO18 "Canadian citizens aged 18 and over" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,CanCtznsO18,-1,-1;CanCtznsU18 "Canadian citizens aged under 18" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,CanCtznsU18,-1,-1;LoInc_All "LoInc_All" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,LoInc_All,-1,-1;LoInc_0_5 "LoInc_0_5" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,LoInc_0_5,-1,-1;LoInc_65M "LoInc_65M" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,LoInc_65M,-1,-1;LoInc_65F "LoInc_65F" true true false 8 Double 0 0,First,#,PED_PROFILE_2023,LoInc_65F,-1,-1" #</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="152649" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_Profile&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" "&lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;LoInc_All&lt;/field_name&gt;&lt;field_alias&gt;Low income all&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;LoInc_0_5&lt;/field_name&gt;&lt;field_alias&gt;Low income age 0-5 &lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;LoInc_65M&lt;/field_name&gt;&lt;field_alias&gt;Low income Male 65+&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;LoInc_65F&lt;/field_name&gt;&lt;field_alias&gt;Low income Female 65+&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;"</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230330" Time="153335" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_Profile&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" "&lt;operationSequence&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;EDNAME&lt;/field_name&gt;&lt;field_alias&gt;Electoral Division Name&lt;/field_alias&gt;&lt;field_type&gt;TEXT&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;EDPROV&lt;/field_name&gt;&lt;field_alias&gt;Province&lt;/field_alias&gt;&lt;field_type&gt;TEXT&lt;/field_type&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;ED_NUMBER&lt;/field_name&gt;&lt;field_alias&gt;Electoral Division Number&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;TotalPopulation&lt;/field_name&gt;&lt;field_alias&gt;Total population&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;MenPlusPop&lt;/field_name&gt;&lt;field_alias&gt;Total population men+&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;WomenPlusPop&lt;/field_name&gt;&lt;field_alias&gt;Total population women+&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;TotAgeGr&lt;/field_name&gt;&lt;field_alias&gt;Total age group&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Y0_4&lt;/field_name&gt;&lt;field_alias&gt;Total population age 0-4&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PC0_4&lt;/field_name&gt;&lt;field_alias&gt;Percentage population age 0 - 4&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Y5_17&lt;/field_name&gt;&lt;field_alias&gt;Total population age 5 - 17&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PCY5_17&lt;/field_name&gt;&lt;field_alias&gt;Percentage population age 5 - 17&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Y18_24&lt;/field_name&gt;&lt;field_alias&gt;Total population age 18 - 24&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PCY18_24&lt;/field_name&gt;&lt;field_alias&gt;Percentage population age 18 - 24&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Y25_44&lt;/field_name&gt;&lt;field_alias&gt;Total population age 25 - 44&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PCY25_44&lt;/field_name&gt;&lt;field_alias&gt;Percentage population age 25 - 44&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Y45_64&lt;/field_name&gt;&lt;field_alias&gt;Total population age 45 - 64&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PCY45_64&lt;/field_name&gt;&lt;field_alias&gt;Percentage population age 45 - 64&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;Y65p&lt;/field_name&gt;&lt;field_alias&gt;Total population age 65+&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PC65p&lt;/field_name&gt;&lt;field_alias&gt;Percentage population age 65+&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PC_IndID&lt;/field_name&gt;&lt;field_alias&gt;Percentgae indigenous identity &lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PC1ParFam&lt;/field_name&gt;&lt;field_alias&gt;Percentage one parent families&lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AlterField&gt;&lt;field_name&gt;PCWorkFYFT&lt;/field_name&gt;&lt;field_alias&gt;Percentage worked full time full year &lt;/field_alias&gt;&lt;field_is_nullable&gt;True&lt;/field_is_nullable&gt;&lt;clear_field_alias&gt;False&lt;/clear_field_alias&gt;&lt;/AlterField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;"</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20230406" Time="140352" Name="" export="">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.0.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\PED_Profile.gdb&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;FileGDB&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;PED_Profile&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;AppCert&lt;/field_name&gt;&lt;field_name&gt;Non_AppCert&lt;/field_name&gt;&lt;field_name&gt;AppCertTra_Dip&lt;/field_name&gt;&lt;field_name&gt;Bach_Deg&lt;/field_name&gt;&lt;field_name&gt;Coll_CEGEP&lt;/field_name&gt;&lt;field_name&gt;MedDentVet&lt;/field_name&gt;&lt;field_name&gt;Doc&lt;/field_name&gt;&lt;field_name&gt;Masters&lt;/field_name&gt;&lt;field_name&gt;Uni_Cert_Bach&lt;/field_name&gt;&lt;field_name&gt;Uni_Cert_UBach&lt;/field_name&gt;&lt;field_name&gt;BachDeg_Over&lt;/field_name&gt;&lt;field_name&gt;PSC_DipUBach&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+				<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\ExportFeatures" Date="20230424" Time="091504" Name="" export="">ExportFeatures PED_Profile "M:\EFP\OSI\Geospatial Statistics\ClientRequests_0370\2023_Demography_PED_Profile\AlbertaCensusProfilesElectoralDivision_Current\2021_PED_Census_Profile.shp" # NOT_USE_ALIAS "EDNAME "Electoral Division Name" true true false 254 Text 0 0,First,#,PED_Profile,EDNAME,0,254;EDPROV "Province" true true false 254 Text 0 0,First,#,PED_Profile,EDPROV,0,254;ED_NUMBER "Electoral Division Number" true true false 8 Double 0 0,First,#,PED_Profile,ED_NUMBER,-1,-1;TotalPopulation "Total population" true true false 8 Double 0 0,First,#,PED_Profile,TotalPopulation,-1,-1;MenPlusPop "Total population men+" true true false 8 Double 0 0,First,#,PED_Profile,MenPlusPop,-1,-1;WomenPlusPop "Total population women+" true true false 8 Double 0 0,First,#,PED_Profile,WomenPlusPop,-1,-1;TotAgeGr "Total age group" true true false 8 Double 0 0,First,#,PED_Profile,TotAgeGr,-1,-1;Y0_4 "Total population age 0-4" true true false 8 Double 0 0,First,#,PED_Profile,Y0_4,-1,-1;PC0_4 "Percentage population age 0 - 4" true true false 8 Double 0 0,First,#,PED_Profile,PC0_4,-1,-1;Y5_17 "Total population age 5 - 17" true true false 8 Double 0 0,First,#,PED_Profile,Y5_17,-1,-1;PCY5_17 "Percentage population age 5 - 17" true true false 8 Double 0 0,First,#,PED_Profile,PCY5_17,-1,-1;Y18_24 "Total population age 18 - 24" true true false 8 Double 0 0,First,#,PED_Profile,Y18_24,-1,-1;PCY18_24 "Percentage population age 18 - 24" true true false 8 Double 0 0,First,#,PED_Profile,PCY18_24,-1,-1;Y25_44 "Total population age 25 - 44" true true false 8 Double 0 0,First,#,PED_Profile,Y25_44,-1,-1;PCY25_44 "Percentage population age 25 - 44" true true false 8 Double 0 0,First,#,PED_Profile,PCY25_44,-1,-1;Y45_64 "Total population age 45 - 64" true true false 8 Double 0 0,First,#,PED_Profile,Y45_64,-1,-1;PCY45_64 "Percentage population age 45 - 64" true true false 8 Double 0 0,First,#,PED_Profile,PCY45_64,-1,-1;Y65p "Total population age 65+" true true false 8 Double 0 0,First,#,PED_Profile,Y65p,-1,-1;PC65p "Percentage population age 65+" true true false 8 Double 0 0,First,#,PED_Profile,PC65p,-1,-1;TotIndID "Indigenous identity" true true false 8 Double 0 0,First,#,PED_Profile,TotIndID,-1,-1;PC_IndID "Percentgae indigenous identity " true true false 8 Double 0 0,First,#,PED_Profile,PC_IndID,-1,-1;TotFirstNations "First Nations (North American Indian)" true true false 8 Double 0 0,First,#,PED_Profile,TotFirstNations,-1,-1;TotInuk_Inuit "Inuk (Inuit)" true true false 8 Double 0 0,First,#,PED_Profile,TotInuk_Inuit,-1,-1;TotMétis "Métis" true true false 8 Double 0 0,First,#,PED_Profile,TotMétis,-1,-1;SingleIndRes "Single Indigenous responses" true true false 8 Double 0 0,First,#,PED_Profile,SingleIndRes,-1,-1;TotVisMinoPop "Total visible minority population" true true false 8 Double 0 0,First,#,PED_Profile,TotVisMinoPop,-1,-1;PC_VisMino "Percentage of Visible Minority" true true false 8 Double 0 0,First,#,PED_Profile,PC_VisMino,-1,-1;Arab "Arab" true true false 8 Double 0 0,First,#,PED_Profile,Arab,-1,-1;Black "Black" true true false 8 Double 0 0,First,#,PED_Profile,Black,-1,-1;Chinese "Chinese" true true false 8 Double 0 0,First,#,PED_Profile,Chinese,-1,-1;Filipino "Filipino" true true false 8 Double 0 0,First,#,PED_Profile,Filipino,-1,-1;Japanese "Japanese" true true false 8 Double 0 0,First,#,PED_Profile,Japanese,-1,-1;Korean "Korean" true true false 8 Double 0 0,First,#,PED_Profile,Korean,-1,-1;South_Asian "South Asian" true true false 8 Double 0 0,First,#,PED_Profile,South_Asian,-1,-1;Southeast_Asian "Southeast Asian" true true false 8 Double 0 0,First,#,PED_Profile,Southeast_Asian,-1,-1;West_Asian "West Asian" true true false 8 Double 0 0,First,#,PED_Profile,West_Asian,-1,-1;Latin_Am "Latin American" true true false 8 Double 0 0,First,#,PED_Profile,Latin_Am,-1,-1;MulVisMino "Multiple visible minorities" true true false 8 Double 0 0,First,#,PED_Profile,MulVisMino,-1,-1;NotVisMino "Not a visible minority" true true false 8 Double 0 0,First,#,PED_Profile,NotVisMino,-1,-1;TotCensusFam "Total number of census families in private households - 100% dat" true true false 8 Double 0 0,First,#,PED_Profile,TotCensusFam,-1,-1;TotCoupleFam "Total couple families" true true false 8 Double 0 0,First,#,PED_Profile,TotCoupleFam,-1,-1;Married_couples "Married couples" true true false 8 Double 0 0,First,#,PED_Profile,Married_couples,-1,-1;Common_law "Common-law couples" true true false 8 Double 0 0,First,#,PED_Profile,Common_law,-1,-1;Tot1ParFam "Total one-parent families" true true false 8 Double 0 0,First,#,PED_Profile,Tot1ParFam,-1,-1;PC1ParFam "Percentage one parent families" true true false 8 Double 0 0,First,#,PED_Profile,PC1ParFam,-1,-1;Man1ParFam "in which the parent is a man+" true true false 8 Double 0 0,First,#,PED_Profile,Man1ParFam,-1,-1;Women1ParFam "in which the parent is a woman+" true true false 8 Double 0 0,First,#,PED_Profile,Women1ParFam,-1,-1;W_Children "With children" true true false 8 Double 0 0,First,#,PED_Profile,W_Children,-1,-1;No_Children "Without children" true true false 8 Double 0 0,First,#,PED_Profile,No_Children,-1,-1;MedVal "Median value of dwellings ($)" true true false 8 Double 0 0,First,#,PED_Profile,MedVal,-1,-1;Official_lang "Official languages" true true false 8 Double 0 0,First,#,PED_Profile,Official_lang,-1,-1;Non_official_lang "Non-official languages" true true false 8 Double 0 0,First,#,PED_Profile,Non_official_lang,-1,-1;PC_Non_Official "Percent Non Official" true true false 8 Double 0 0,First,#,PED_Profile,PC_Non_Official,-1,-1;English "English" true true false 8 Double 0 0,First,#,PED_Profile,English,-1,-1;PC_English "Percent English" true true false 8 Double 0 0,First,#,PED_Profile,PC_English,-1,-1;French "French" true true false 8 Double 0 0,First,#,PED_Profile,French,-1,-1;PC_French "Percent French" true true false 8 Double 0 0,First,#,PED_Profile,PC_French,-1,-1;Ind_lang "Indigenous languages" true true false 8 Double 0 0,First,#,PED_Profile,Ind_lang,-1,-1;AveWeeksWrk "Average weeks worked in reference year" true true false 8 Double 0 0,First,#,PED_Profile,AveWeeksWrk,-1,-1;WrkFTFY "Worked full year full time" true true false 8 Double 0 0,First,#,PED_Profile,WrkFTFY,-1,-1;WrkPTPY "Worked part year and/or part time" true true false 8 Double 0 0,First,#,PED_Profile,WrkPTPY,-1,-1;NoWork "Did not work" true true false 8 Double 0 0,First,#,PED_Profile,NoWork,-1,-1;Worked "Worked" true true false 8 Double 0 0,First,#,PED_Profile,Worked,-1,-1;TotPop15pWrk "Total - Population aged 15 years and over by work activity durin" true true false 8 Double 0 0,First,#,PED_Profile,TotPop15pWrk,-1,-1;MedIncFT "Median employment income in 2020 for full-year full-time wor" true true false 8 Double 0 0,First,#,PED_Profile,MedIncFT,-1,-1;PCWorkFYFT "Percentage worked full time full year " true true false 8 Double 0 0,First,#,PED_Profile,PCWorkFYFT,-1,-1;EmpRate "Employment rate" true true false 8 Double 0 0,First,#,PED_Profile,EmpRate,-1,-1;PartRate "Participation rate" true true false 8 Double 0 0,First,#,PED_Profile,PartRate,-1,-1;UnEmpRate "Unemployment rate" true true false 8 Double 0 0,First,#,PED_Profile,UnEmpRate,-1,-1;AvgIncTot2020 "Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_Profile,AvgIncTot2020,-1,-1;MedIncTot2020 "Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_Profile,MedIncTot2020,-1,-1;MedIncTotFam2020 "Median total income of economic family in 2020" true true false 8 Double 0 0,First,#,PED_Profile,MedIncTotFam2020,-1,-1;MedTotIncHse2020 "Median total income of household in 2020" true true false 8 Double 0 0,First,#,PED_Profile,MedTotIncHse2020,-1,-1;NumTotIncRec15p "Number of total income recipients aged 15 years and over in pr" true true false 8 Double 0 0,First,#,PED_Profile,NumTotIncRec15p,-1,-1;TotIncStats15p "Total - Income statistics in 2020 for the population aged 15 yea" true true false 8 Double 0 0,First,#,PED_Profile,TotIncStats15p,-1,-1;TotMIncStats15p "Total Male - Income statistics in 2020 for the population aged 1" true true false 8 Double 0 0,First,#,PED_Profile,TotMIncStats15p,-1,-1;NumTotMIncRec15p "Male Number of total income recipients aged 15 years and over" true true false 8 Double 0 0,First,#,PED_Profile,NumTotMIncRec15p,-1,-1;MedTotMInc "Male Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_Profile,MedTotMInc,-1,-1;AvgTotMInc "Male Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_Profile,AvgTotMInc,-1,-1;TotFIncStats15p "Total Female - Income statistics in 2020 for the population aged" true true false 8 Double 0 0,First,#,PED_Profile,TotFIncStats15p,-1,-1;NumTotFIncRec15p "Female Number of total income recipients aged 15 years and ove" true true false 8 Double 0 0,First,#,PED_Profile,NumTotFIncRec15p,-1,-1;MedTotFInc "Female Median total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_Profile,MedTotFInc,-1,-1;AvgTotFInc "Female Average total income in 2020 among recipients" true true false 8 Double 0 0,First,#,PED_Profile,AvgTotFInc,-1,-1;PC_Immigrant "Percent Immigrant" true true false 8 Double 0 0,First,#,PED_Profile,PC_Immigrant,-1,-1;Immigrants "Immigrants" true true false 8 Double 0 0,First,#,PED_Profile,Immigrants,-1,-1;Non_immigrants "Non-immigrants" true true false 8 Double 0 0,First,#,PED_Profile,Non_immigrants,-1,-1;TotCertDipDeg "Total - Highest certificate, diploma or degree for the populatio" true true false 8 Double 0 0,First,#,PED_Profile,TotCertDipDeg,-1,-1;PSC_Dip_deg "Postsecondary certificate, diploma or degree" true true false 8 Double 0 0,First,#,PED_Profile,PSC_Dip_deg,-1,-1;PC_HS_Dip "Percent High (secondary) school diploma or equivalency certifica" true true false 8 Double 0 0,First,#,PED_Profile,PC_HS_Dip,-1,-1;Tot_HS_Dip "High (secondary) school diploma or equivalency certificate" true true false 8 Double 0 0,First,#,PED_Profile,Tot_HS_Dip,-1,-1;PC_No_Cert_Dip "Percent No certificate, diploma or degree" true true false 8 Double 0 0,First,#,PED_Profile,PC_No_Cert_Dip,-1,-1;No_Cert_Dip_Deg "No certificate, diploma or degree" true true false 8 Double 0 0,First,#,PED_Profile,No_Cert_Dip_Deg,-1,-1;PC_PSC_Dip_Deg "Percent Postsecondary certificate, diploma or degree" true true false 8 Double 0 0,First,#,PED_Profile,PC_PSC_Dip_Deg,-1,-1;TotCan_Ctzns "Canadian citizens" true true false 8 Double 0 0,First,#,PED_Profile,TotCan_Ctzns,-1,-1;PC_Ctzn18p "PC_Ctzn18p" true true false 8 Double 0 0,First,#,PED_Profile,PC_Ctzn18p,-1,-1;Not_Can_Ctzns "Not Canadian citizens" true true false 8 Double 0 0,First,#,PED_Profile,Not_Can_Ctzns,-1,-1;CanCtznsO18 "Canadian citizens aged 18 and over" true true false 8 Double 0 0,First,#,PED_Profile,CanCtznsO18,-1,-1;CanCtznsU18 "Canadian citizens aged under 18" true true false 8 Double 0 0,First,#,PED_Profile,CanCtznsU18,-1,-1;LoInc_All "Low income all" true true false 8 Double 0 0,First,#,PED_Profile,LoInc_All,-1,-1;LoInc_0_5 "Low income age 0-5 " true true false 8 Double 0 0,First,#,PED_Profile,LoInc_0_5,-1,-1;LoInc_65M "Low income Male 65+" true true false 8 Double 0 0,First,#,PED_Profile,LoInc_65M,-1,-1;LoInc_65F "Low income Female 65+" true true false 8 Double 0 0,First,#,PED_Profile,LoInc_65F,-1,-1;Shape_Length "Shape_Length" false true true 8 Double 0 0,First,#,PED_Profile,Shape_Length,-1,-1;Shape_Area "Shape_Area" false true true 8 Double 0 0,First,#,PED_Profile,Shape_Area,-1,-1" #</Process>
+			</lineage>
+			<itemProps>
+				<itemName Sync="TRUE">2021_PED_Census_Profile</itemName>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\D-663684\C$\Users\bethany.luther\OneDrive - Government of Alberta\Documents\ArcGIS\Projects\CensusProfiles2021\2021_PED_Census_Profile.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+				<itemSize Sync="TRUE">4.052</itemSize>
+				<nativeExtBox>
+					<westBL Sync="TRUE">170844.329600</westBL>
+					<eastBL Sync="TRUE">865133.515000</eastBL>
+					<southBL Sync="TRUE">5425575.486700</southBL>
+					<northBL Sync="TRUE">6659344.340000</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+				<imsContentType export="False"/>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+				<projcsn Sync="TRUE">NAD_1983_10TM_AEP_Forest</projcsn>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_10TM_AEP_Forest&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-115.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9992],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,3400]]&lt;/WKT&gt;&lt;XOrigin&gt;-5118700&lt;/XOrigin&gt;&lt;YOrigin&gt;-9994100&lt;/YOrigin&gt;&lt;XYScale&gt;450625831.97791648&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102184&lt;/WKID&gt;&lt;LatestWKID&gt;3400&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20230517</SyncDate>
+		<SyncTime>14341200</SyncTime>
+		<ModDate>20230517</ModDate>
+		<ModTime>14341200</ModTime>
+		<ArcGISProfile>NAP</ArcGISProfile>
+		<scaleRange><minScale>150000000</minScale><maxScale>5000</maxScale></scaleRange>
+	</Esri>
+	<eainfo>
+		<detailed Name="2021_PED_Census_Profile">
+			<enttyp>
+				<enttypl Sync="TRUE">2021_PED_Census_Profile</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">87</enttypc>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EDNAME</attrlabl>
+				<attalias Sync="TRUE">EDNAME</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EDPROV</attrlabl>
+				<attalias Sync="TRUE">EDPROV</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_IndID</attrlabl>
+				<attalias Sync="TRUE">PC_IndID</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotalPopul</attrlabl>
+				<attalias Sync="TRUE">TotalPopul</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MenPlusPop</attrlabl>
+				<attalias Sync="TRUE">MenPlusPop</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">WomenPlusP</attrlabl>
+				<attalias Sync="TRUE">WomenPlusP</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ED_NUMBER</attrlabl>
+				<attalias Sync="TRUE">ED_NUMBER</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y0_4</attrlabl>
+				<attalias Sync="TRUE">Y0_4</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC0_4</attrlabl>
+				<attalias Sync="TRUE">PC0_4</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y5_17</attrlabl>
+				<attalias Sync="TRUE">Y5_17</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PCY5_17</attrlabl>
+				<attalias Sync="TRUE">PCY5_17</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y18_24</attrlabl>
+				<attalias Sync="TRUE">Y18_24</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PCY18_24</attrlabl>
+				<attalias Sync="TRUE">PCY18_24</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y25_44</attrlabl>
+				<attalias Sync="TRUE">Y25_44</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PCY25_44</attrlabl>
+				<attalias Sync="TRUE">PCY25_44</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y45_64</attrlabl>
+				<attalias Sync="TRUE">Y45_64</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PCY45_64</attrlabl>
+				<attalias Sync="TRUE">PCY45_64</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y65p</attrlabl>
+				<attalias Sync="TRUE">Y65p</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC65p</attrlabl>
+				<attalias Sync="TRUE">PC65p</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotIndID</attrlabl>
+				<attalias Sync="TRUE">TotIndID</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotAgeGr</attrlabl>
+				<attalias Sync="TRUE">TotAgeGr</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotFirstNa</attrlabl>
+				<attalias Sync="TRUE">TotFirstNa</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotInuk_In</attrlabl>
+				<attalias Sync="TRUE">TotInuk_In</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotMétis</attrlabl>
+				<attalias Sync="TRUE">TotMétis</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SingleIndR</attrlabl>
+				<attalias Sync="TRUE">SingleIndR</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotVisMino</attrlabl>
+				<attalias Sync="TRUE">TotVisMino</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_VisMino</attrlabl>
+				<attalias Sync="TRUE">PC_VisMino</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Worked</attrlabl>
+				<attalias Sync="TRUE">Worked</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MedIncFT</attrlabl>
+				<attalias Sync="TRUE">MedIncFT</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PCWorkFYFT</attrlabl>
+				<attalias Sync="TRUE">PCWorkFYFT</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">English</attrlabl>
+				<attalias Sync="TRUE">English</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">French</attrlabl>
+				<attalias Sync="TRUE">French</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Immigrants</attrlabl>
+				<attalias Sync="TRUE">Immigrants</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">South_Asia</attrlabl>
+				<attalias Sync="TRUE">South_Asia</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Southeast_</attrlabl>
+				<attalias Sync="TRUE">Southeast_</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_Ctzn18p</attrlabl>
+				<attalias Sync="TRUE">PC_Ctzn18p</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Latin_Am</attrlabl>
+				<attalias Sync="TRUE">Latin_Am</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MulVisMino</attrlabl>
+				<attalias Sync="TRUE">MulVisMino</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NotVisMino</attrlabl>
+				<attalias Sync="TRUE">NotVisMino</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotCensusF</attrlabl>
+				<attalias Sync="TRUE">TotCensusF</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotCoupleF</attrlabl>
+				<attalias Sync="TRUE">TotCoupleF</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Married_co</attrlabl>
+				<attalias Sync="TRUE">Married_co</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Arab</attrlabl>
+				<attalias Sync="TRUE">Arab</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Common_law</attrlabl>
+				<attalias Sync="TRUE">Common_law</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Tot1ParFam</attrlabl>
+				<attalias Sync="TRUE">Tot1ParFam</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC1ParFam</attrlabl>
+				<attalias Sync="TRUE">PC1ParFam</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Women1ParF</attrlabl>
+				<attalias Sync="TRUE">Women1ParF</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Man1ParFam</attrlabl>
+				<attalias Sync="TRUE">Man1ParFam</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">No_Childre</attrlabl>
+				<attalias Sync="TRUE">No_Childre</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">W_Children</attrlabl>
+				<attalias Sync="TRUE">W_Children</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Official_l</attrlabl>
+				<attalias Sync="TRUE">Official_l</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Non_offici</attrlabl>
+				<attalias Sync="TRUE">Non_offici</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_Non_Off</attrlabl>
+				<attalias Sync="TRUE">PC_Non_Off</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MedVal</attrlabl>
+				<attalias Sync="TRUE">MedVal</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Black</attrlabl>
+				<attalias Sync="TRUE">Black</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_English</attrlabl>
+				<attalias Sync="TRUE">PC_English</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Chinese</attrlabl>
+				<attalias Sync="TRUE">Chinese</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_French</attrlabl>
+				<attalias Sync="TRUE">PC_French</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AveWeeksWr</attrlabl>
+				<attalias Sync="TRUE">AveWeeksWr</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Ind_lang</attrlabl>
+				<attalias Sync="TRUE">Ind_lang</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">WrkFTFY</attrlabl>
+				<attalias Sync="TRUE">WrkFTFY</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">WrkPTPY</attrlabl>
+				<attalias Sync="TRUE">WrkPTPY</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NoWork</attrlabl>
+				<attalias Sync="TRUE">NoWork</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotPop15pW</attrlabl>
+				<attalias Sync="TRUE">TotPop15pW</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Filipino</attrlabl>
+				<attalias Sync="TRUE">Filipino</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Japanese</attrlabl>
+				<attalias Sync="TRUE">Japanese</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Korean</attrlabl>
+				<attalias Sync="TRUE">Korean</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EmpRate</attrlabl>
+				<attalias Sync="TRUE">EmpRate</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PartRate</attrlabl>
+				<attalias Sync="TRUE">PartRate</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AvgIncTot2</attrlabl>
+				<attalias Sync="TRUE">AvgIncTot2</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MedIncTot2</attrlabl>
+				<attalias Sync="TRUE">MedIncTot2</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MedIncTotF</attrlabl>
+				<attalias Sync="TRUE">MedIncTotF</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MedTotIncH</attrlabl>
+				<attalias Sync="TRUE">MedTotIncH</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NumTotIncR</attrlabl>
+				<attalias Sync="TRUE">NumTotIncR</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotIncStat</attrlabl>
+				<attalias Sync="TRUE">TotIncStat</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotMIncSta</attrlabl>
+				<attalias Sync="TRUE">TotMIncSta</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NumTotMInc</attrlabl>
+				<attalias Sync="TRUE">NumTotMInc</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">UnEmpRate</attrlabl>
+				<attalias Sync="TRUE">UnEmpRate</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MedTotMInc</attrlabl>
+				<attalias Sync="TRUE">MedTotMInc</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotFIncSta</attrlabl>
+				<attalias Sync="TRUE">TotFIncSta</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NumTotFInc</attrlabl>
+				<attalias Sync="TRUE">NumTotFInc</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AvgTotMInc</attrlabl>
+				<attalias Sync="TRUE">AvgTotMInc</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MedTotFInc</attrlabl>
+				<attalias Sync="TRUE">MedTotFInc</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_Immigra</attrlabl>
+				<attalias Sync="TRUE">PC_Immigra</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AvgTotFInc</attrlabl>
+				<attalias Sync="TRUE">AvgTotFInc</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Non_immigr</attrlabl>
+				<attalias Sync="TRUE">Non_immigr</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotCertDip</attrlabl>
+				<attalias Sync="TRUE">TotCertDip</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PSC_Dip_de</attrlabl>
+				<attalias Sync="TRUE">PSC_Dip_de</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_HS_Dip</attrlabl>
+				<attalias Sync="TRUE">PC_HS_Dip</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Tot_HS_Dip</attrlabl>
+				<attalias Sync="TRUE">Tot_HS_Dip</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_No_Cert</attrlabl>
+				<attalias Sync="TRUE">PC_No_Cert</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">No_Cert_Di</attrlabl>
+				<attalias Sync="TRUE">No_Cert_Di</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PC_PSC_Dip</attrlabl>
+				<attalias Sync="TRUE">PC_PSC_Dip</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TotCan_Ctz</attrlabl>
+				<attalias Sync="TRUE">TotCan_Ctz</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">West_Asian</attrlabl>
+				<attalias Sync="TRUE">West_Asian</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Not_Can_Ct</attrlabl>
+				<attalias Sync="TRUE">Not_Can_Ct</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CanCtznsO1</attrlabl>
+				<attalias Sync="TRUE">CanCtznsO1</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CanCtznsU1</attrlabl>
+				<attalias Sync="TRUE">CanCtznsU1</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LoInc_All</attrlabl>
+				<attalias Sync="TRUE">LoInc_All</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LoInc_0_5</attrlabl>
+				<attalias Sync="TRUE">LoInc_0_5</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LoInc_65M</attrlabl>
+				<attalias Sync="TRUE">LoInc_65M</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LoInc_65F</attrlabl>
+				<attalias Sync="TRUE">LoInc_65F</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+				<attalias Sync="TRUE">Shape_Leng</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape_Area</attrlabl>
+				<attalias Sync="TRUE">Shape_Area</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<mdFileID>64C7A0DB-38F3-4A45-9209-E67392331C06</mdFileID>
+	<mdLang><languageCode value="eng"/><countryCode value="CA"/></mdLang>
+	<mdChar><CharSetCd value="004"/></mdChar>
+	<mdHrLv><ScopeCd value="005"/></mdHrLv>
+	<mdHrLvName>dataset</mdHrLvName>
+	<mdContact><rpOrgName>Treasury Board and Finance, Government of Alberta</rpOrgName><rpPosName>Data and GIS Services, Office of Statistics and Information</rpPosName><rpCntInfo><cntAddress addressType="both"><delPoint>Queen Elizabeth II Building, Eighth Floor</delPoint><delPoint>9820 - 107 Street</delPoint><city>Edmonton</city><adminArea>Alberta</adminArea><postCode>T5K 1E7</postCode><country>CA</country><eMailAdd>osi.support@gov.ab.ca</eMailAdd></cntAddress><cntHours>8:15 a.m. to 4:30 p.m. Monday to Friday (closed from noon to 1 p.m., and excluding holidays)</cntHours><cntInstr>Queries about the creation and/or characteristics of the metadata submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Profiles by Electoral Division - Current".</cntInstr></rpCntInfo><role><RoleCd value="010"/></role></mdContact>
+	<mdDateSt Sync="TRUE">20230517</mdDateSt>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<distInfo><distFormat><formatName>Shapefile</formatName><formatVer>10.7.1</formatVer><formatSpec>SHP</formatSpec><fileDecmTech>ZIP</fileDecmTech></distFormat><distributor><distorCont><rpOrgName>Alberta Environment and Protected Areas, Government of Alberta</rpOrgName><rpPosName>Provincial Geospatial Centre</rpPosName><rpCntInfo><cntPhone><voiceNum tddtty="">7804277374</voiceNum><faxNum>7804220712</faxNum></cntPhone><cntAddress addressType="both"><delPoint>14th Floor, Oxbridge Place</delPoint><delPoint>9820 - 106 Street NW</delPoint><city>Edmonton</city><adminArea>Alberta</adminArea><postCode>T5K 2J6</postCode><country>CA</country><eMailAdd>AEP.Data@gov.ab.ca</eMailAdd></cntAddress></rpCntInfo><role><RoleCd value="005"/></role></distorCont></distributor><distTranOps><onLineSrc><linkage>https://geospatial.alberta.ca/titan/rest/services/census/census_profiles_by_electoral_division_2021/MapServer</linkage><protocol>REST</protocol><orName>census/census_profiles_by_electoral_division_2021 (MapServer)</orName><orDesc>Web map service for current Provincial Electoral Divisions or PEDs</orDesc><orFunct><OnFunctCd value="007"/></orFunct></onLineSrc><onLineSrc><linkage>https://geospatial.alberta.ca/titan/rest/services/census/census_profiles_by_electoral_division_2021/MapServer/WMS</linkage><protocol>WMS</protocol><orName>census/census_profiles_by_electoral_division_2021 (WebMapServer)</orName><orDesc>Web map service for current Provincial Electoral Divisions or PEDs</orDesc><orFunct><OnFunctCd value="011"/></orFunct></onLineSrc></distTranOps><distTranOps><unitsODist>MB</unitsODist><transSize>3</transSize><onLineSrc><linkage>https://extranet.gov.ab.ca/srd/geodiscover/srd_pub/society/AlbertaCensusProfilesElectoralDivision_Current.zip</linkage><protocol>FTP</protocol><orName>Census Profiles by Electoral Division - Current (SHP)</orName><orDesc>Shapefile containing Census Profiles by Electoral Division - Current dataset (ZIP)</orDesc><orFunct><OnFunctCd value="001"/></orFunct></onLineSrc></distTranOps></distInfo>
+	<dataIdInfo><idCitation><resTitle>Alberta Census Profiles by Electoral Division - Current</resTitle><date><createDate>2023-02-14T00:00:00</createDate><pubDate>2023-04-12T00:00:00</pubDate></date><citRespParty><rpOrgName>Treasury Board and Finance, Government of Alberta</rpOrgName><rpPosName>Data and GIS Services, Office of Statistics and Information</rpPosName><rpCntInfo><cntAddress addressType="both"><delPoint>Queen Elizabeth II Building, Eighth Floor</delPoint><delPoint>9820 - 107 Street </delPoint><city>Edmonton</city><adminArea>Alberta</adminArea><postCode>T5K 1E7</postCode><eMailAdd>osi.support@gov.ab.ca</eMailAdd></cntAddress><cntHours>8:15 a.m. to 4:30 p.m. Monday to Friday (closed from noon to 1 p.m., and excluding holidays)</cntHours><cntInstr>Queries about the creation and/or characteristics of the metadata submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Profiles by Electoral Division - Current".</cntInstr></rpCntInfo><role><RoleCd value="006"/></role></citRespParty><presForm><PresFormCd value="005"/></presForm></idCitation><idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This data set comprises all of the current feature classes in the Alberta Provincial Electoral Divisions profiles. This data is derived from the 2021 Census of Canada.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs><idPurp>This dataset represents 2021 Census and National Households Survey data by Alberta's Provincial Electoral Divisions for reference and/or analytical use.</idPurp><idCredit>Adapted from Statistics Canada, 2021 Census - Boundary files. This does not constitute an endorsement by Statistics Canada of this product.</idCredit><idStatus><ProgCd value="001"/></idStatus><idPoC><rpOrgName>Treasury Board and Finance, Government of Alberta</rpOrgName><rpPosName>Data and GIS Services, Office of Statistics and Information</rpPosName><rpCntInfo><cntAddress addressType="both"><delPoint>Queen Elizabeth II Building, Eighth Floor</delPoint><delPoint>9820 - 107 Street</delPoint><city>Edmonton</city><adminArea>Alberta</adminArea><postCode>T5K 1E7</postCode><eMailAdd>osi.support@gov.ab.ca</eMailAdd></cntAddress><cntHours>8:15 a.m. to 4:30 p.m. Monday to Friday (closed from noon to 1 p.m., and excluding holidays)</cntHours><cntInstr>Queries about the creation and/or characteristics of the metadata submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Profiles by Electoral Division - Current".</cntInstr></rpCntInfo><role><RoleCd value="007"/></role></idPoC><resMaint><maintFreq><MaintFreqCd value="009"/></maintFreq></resMaint><placeKeys><keyword>Alberta, Canada</keyword></placeKeys><themeKeys><keyword>Electoral divisions</keyword><keyword>Electoral districts</keyword></themeKeys><resConst><LegConsts><accessConsts><RestrictCd value="008"/></accessConsts><othConsts>To access the data you must agree to the terms of the Open Government Licence - Alberta.</othConsts></LegConsts></resConst><resConst><LegConsts><useConsts><RestrictCd value="005"/></useConsts><othConsts>Your use of this information will be governed by the terms of the Open Government Licence - Alberta, in force as of the date you accessed the information, found at https://open.alberta.ca/licence</othConsts></LegConsts></resConst><resConst><LegConsts><useLimit>Distribution Liability: Under the terms of the Open Government Licence - Alberta, the Information is licensed as is, and the Information Provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law. The Information Provider is not liable for any errors or omissions in the Information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage.</useLimit></LegConsts></resConst><resConst><SecConsts><class><ClasscationCd value="001"/></class><userNote>Public/Unrestricted</userNote><classSys>Government of Alberta Data and Information Security Classification</classSys><handDesc>https://imtpolicy.sp.alberta.ca/standards/Pages/Data-and-Information-Security-Classification.aspx</handDesc></SecConsts></resConst><aggrInfo><aggrDSName><resTitle>Electoral Divisions</resTitle><date><pubDate>2017-09-13</pubDate></date><otherCitDet>Source: Statistics Canada 2021 Census boundary files.</otherCitDet><citRespParty><rpOrgName>Statistics Canada</rpOrgName><role><RoleCd value="010"></RoleCd></role></citRespParty></aggrDSName><assocType><AscTypeCd value="004"/></assocType></aggrInfo><aggrInfo><aggrDSName><resTitle>Data tables, 2021 Census</resTitle><resAltTitle>Tableaux de données, Recensement de 2021</resAltTitle><date><reviseDate>2018-04-04</reviseDate></date><otherCitDet>Source: Statistics Canada 2021 Census Data Tables</otherCitDet><citRespParty><rpOrgName>Statistics Canada</rpOrgName><role><RoleCd value="010"></RoleCd></role></citRespParty></aggrDSName><assocType><AscTypeCd value="004"/></assocType></aggrInfo><spatRpType><SpatRepTypCd value="001"/></spatRpType><dataLang><languageCode value="eng"/><countryCode value="CA"/></dataLang><dataChar><CharSetCd value="004"/></dataChar><envirDesc>Microsoft Windows 10 Version 10.0 (Build 19044) ; Esri ArcGIS 13.0.2.36056</envirDesc><dataExt><geoEle><GeoBndBox><exTypeCode>false</exTypeCode><westBL>-120</westBL><eastBL>-110</eastBL><southBL>49</southBL><northBL>60</northBL></GeoBndBox></geoEle></dataExt><dataExt><geoEle><GeoBndBox><exTypeCode>true</exTypeCode><westBL>-120.001403</westBL><eastBL>-110.004777</eastBL><southBL>48.996674</southBL><northBL>60.00047</northBL></GeoBndBox></geoEle></dataExt><tpCat><TopicCatCd value="016"/></tpCat><tpCat><TopicCatCd value="003"/></tpCat><tpCat><TopicCatCd value="005"/></tpCat><dataExt><geoEle><GeoBndBox esriExtentType="search"><exTypeCode Sync="TRUE">1</exTypeCode><westBL Sync="TRUE">-120.902231</westBL><eastBL Sync="TRUE">-108.457295</eastBL><northBL Sync="TRUE">60.095171</northBL><southBL Sync="TRUE">48.894798</southBL></GeoBndBox></geoEle></dataExt></dataIdInfo>
+	<mdMaint><maintFreq><MaintFreqCd value="011"/></maintFreq></mdMaint>
+	<dqInfo><dqScope><scpLvl><ScopeCd value="005"/></scpLvl></dqScope><dataLineage><statement>This dataset was created by integrating 2021 census tables with 2021 electoral division boundary files. The result is a set of feature layers depicting socio-economic indicators.</statement><dataSource type=""><srcDesc>The Provincial Electoral Division boundaries used for the 2021 Census are based on the 2023 Representation Order.</srcDesc><srcCitatn><resTitle>Provincial Electoral Divisions</resTitle><date><pubDate>2016-09-13</pubDate></date></srcCitatn></dataSource><dataSource type=""><srcDesc>Data tables, 2021 Census About the 2021 Census Data tables: This series of cross-tabulations will present a portrait of Canada based on the various census topics. They will range in complexity and will be available for various levels of geography. A number of the tabulations will be available on each official day of release for each topic, while others will follow several months later. Content varies from: A simple overview of the country Simple to more complex cross-tabulations Current and previous census data.</srcDesc><srcCitatn><resTitle>2021 Census Data tables</resTitle><date><reviseDate>2018-09-26</reviseDate></date></srcCitatn></dataSource><prcStep><stepDesc>Creation
+- Boundary of 2019 Provincial Electoral Divisions created by Elections Alberta and downloaded from GeoDiscover Alberta
+- Provincial Electoral Division profile data is a custom data order from Statistics Canada</stepDesc><stepDateTm>2023-04-13T00:00:00</stepDateTm><stepProc><rpIndName>Jason Lee</rpIndName><rpOrgName>Office of Statistics and Information</rpOrgName><rpPosName>Geospatial Data Analyst</rpPosName><role><RoleCd value="009"/></role></stepProc></prcStep></dataLineage></dqInfo>
+	<spatRepInfo><VectSpatRep><geometObjs Name="2021_PED_Census_Profile"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">87</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<refSysInfo><RefSystem dimension="horizontal"><refSysID><identCode code="3400"/><idCodeSpace>EPSG</idCodeSpace><identVrsn>6.18.3(9.3.1.2)</identVrsn><idVersion Sync="TRUE">6.11(9.3.0.0)</idVersion></refSysID></RefSystem></refSysInfo>
+	<contInfo><FetCatDesc><compCode>false</compCode><catLang><languageCode value="eng"/></catLang><incWithDS>true</incWithDS><catCitation><resTitle>Census Profiles by Electoral Division - Current</resTitle><date><reviseDate>2019-03-25T00:00:00</reviseDate></date><citRespParty><rpOrgName>Treasury Board and Finance, Government of Alberta</rpOrgName><rpPosName>Data and GIS Services, Office of Statistics and Information</rpPosName><rpCntInfo><cntAddress addressType="both"><delPoint>Queen Elizabeth II Building, Eighth Floor</delPoint><delPoint>9820 - 107 Street</delPoint><city>Edmonton</city><adminArea>Alberta</adminArea><postCode>T5K 1E7</postCode><country>CA</country><eMailAdd>osi.support@gov.ab.ca</eMailAdd></cntAddress><cntHours>8:15 a.m. to 4:30 p.m. Monday to Friday (closed from noon to 1 p.m., and excluding holidays)</cntHours><cntInstr>Queries about the creation and/or characteristics of the metadata submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Profiles by Electoral Division - Current".</cntInstr></rpCntInfo><role><RoleCd value="010"/></role><editorSave>False</editorSave><displayName>Treasury Board and Finance, Government of Alberta</displayName></citRespParty></catCitation></FetCatDesc></contInfo>
+	<spdoinfo><ptvctinf><esriterm Name="2021_PED_Census_Profile"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">87</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo></metadata>

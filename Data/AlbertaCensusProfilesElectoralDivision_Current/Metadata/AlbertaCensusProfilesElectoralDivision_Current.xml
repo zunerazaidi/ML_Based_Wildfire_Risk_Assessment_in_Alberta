@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<fileIdentifier>
+<gco:CharacterString>64C7A0DB-38F3-4A45-9209-E67392331C06</gco:CharacterString>
+</fileIdentifier>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<contact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Treasury Board and Finance, Government of Alberta</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Data and GIS Services, Office of Statistics and Information</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Queen Elizabeth II Building, Eighth Floor</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>9820 - 107 Street</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Edmonton</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Alberta</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>T5K 1E7</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA" codeSpace="ISO3166-1">CA</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>osi.support@gov.ab.ca</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>8:15 a.m. to 4:30 p.m. Monday to Friday (closed from noon to 1 p.m., and excluding holidays)</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Queries about the creation and/or characteristics of the metadata submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Profiles by Electoral Division - Current".</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+<dateStamp>
+<gco:Date>2023-05-17</gco:Date>
+</dateStamp>
+<metadataStandardName>
+<gco:CharacterString>NAP - Metadata</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>1.2</gco:CharacterString>
+</metadataStandardVersion>
+<spatialRepresentationInfo>
+<MD_VectorSpatialRepresentation>
+<topologyLevel>
+<MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+</topologyLevel>
+<geometricObjects>
+<MD_GeometricObjects>
+<geometricObjectType>
+<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+</geometricObjectType>
+<geometricObjectCount>
+<gco:Integer>87</gco:Integer>
+</geometricObjectCount>
+</MD_GeometricObjects>
+</geometricObjects>
+</MD_VectorSpatialRepresentation>
+</spatialRepresentationInfo>
+<referenceSystemInfo>
+<MD_ReferenceSystem>
+<referenceSystemIdentifier>
+<RS_Identifier>
+<code>
+<gco:CharacterString>3400</gco:CharacterString>
+</code>
+<codeSpace>
+<gco:CharacterString>EPSG</gco:CharacterString>
+</codeSpace>
+</RS_Identifier>
+</referenceSystemIdentifier>
+</MD_ReferenceSystem>
+</referenceSystemInfo>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Alberta Census Profiles by Electoral Division - Current</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2023-02-14</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2023-05-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Treasury Board and Finance, Government of Alberta</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Data and GIS Services, Office of Statistics and Information</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Queen Elizabeth II Building, Eighth Floor</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>9820 - 107 Street </gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Edmonton</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Alberta</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>T5K 1E7</gco:CharacterString>
+</postalCode>
+<electronicMailAddress>
+<gco:CharacterString>osi.support@gov.ab.ca</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>8:15 a.m. to 4:30 p.m. Monday to Friday (closed from noon to 1 p.m., and excluding holidays)</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Queries about the creation and/or characteristics of the metadata submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Profiles by Electoral Division - Current".</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>This data set comprises all of the current feature classes in the Alberta Provincial Electoral Divisions profiles. This data is derived from the 2021 Census of Canada.</gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>This dataset represents 2021 Census and National Households Survey data by Alberta's Provincial Electoral Divisions for reference and/or analytical use.</gco:CharacterString>
+</purpose>
+<supplinf>
+<gco:CharacterString>All polygonal features have an associated Provincial Electoral Division ID which was used to establish a link with the data from the Census and National Households Survey. 
+		
+The document titled _PED-Technical-Notes-and-Definitions.pdf provides detail information for variables/data including definitions and quality considerations, and can be accessed at the following link: https://open.alberta.ca/dataset/8c8d5c31-7495-49ad-8a4d-106a65118fb3</gco:CharacterString>  
+</supplinf>
+<credit>
+<gco:CharacterString>Adapted from Statistics Canada, 2021 Census - Boundary files. This does not constitute an endorsement by Statistics Canada of this product.</gco:CharacterString>
+</credit>
+<status>
+<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+</status>
+<pointOfContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Treasury Board and Finance, Government of Alberta</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Data and GIS Services, Office of Statistics and Information</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Queen Elizabeth II Building, Eighth Floor</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>9820 - 107 Street</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Edmonton</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Alberta</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>T5K 1E7</gco:CharacterString>
+</postalCode>
+<electronicMailAddress>
+<gco:CharacterString>osi.support@gov.ab.ca</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>8:15 a.m. to 4:30 p.m. Monday to Friday (closed from noon to 1 p.m., and excluding holidays)</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Queries about the creation and/or characteristics of the metadata submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Profiles by Electoral Division - Current".</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Alberta, Canada</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+</type>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Electoral divisions</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Electoral districts</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+</MD_Keywords>
+</descriptiveKeywords>
+<resourceConstraints>
+<MD_LegalConstraints>
+<accessConstraints>
+<MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+</accessConstraints>
+<otherConstraints>
+<gco:CharacterString>To access the data you must agree to the terms of the Open Government Licence - Alberta.</gco:CharacterString>
+</otherConstraints>
+</MD_LegalConstraints>
+</resourceConstraints>
+<resourceConstraints>
+<MD_LegalConstraints>
+<useConstraints>
+<MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115">license</MD_RestrictionCode>
+</useConstraints>
+<otherConstraints>
+<gco:CharacterString>Your use of this information will be governed by the terms of the Open Government Licence - Alberta, in force as of the date you accessed the information, found at https://open.alberta.ca/licence</gco:CharacterString>
+</otherConstraints>
+</MD_LegalConstraints>
+</resourceConstraints>
+<resourceConstraints>
+<MD_LegalConstraints>
+<useLimitation>
+<gco:CharacterString>Distribution Liability: Under the terms of the Open Government Licence - Alberta, the Information is licensed as is, and the Information Provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law. The Information Provider is not liable for any errors or omissions in the Information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage.</gco:CharacterString>
+</useLimitation>
+</MD_LegalConstraints>
+</resourceConstraints>
+<resourceConstraints>
+<MD_SecurityConstraints>
+<classification>
+<MD_ClassificationCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified" codeSpace="ISOTC211/19115">unclassified</MD_ClassificationCode>
+</classification>
+<userNote>
+<gco:CharacterString>Public/Unrestricted</gco:CharacterString>
+</userNote>
+<classificationSystem>
+<gco:CharacterString>Government of Alberta Data and Information Security Classification</gco:CharacterString>
+</classificationSystem>
+<handlingDescription>
+<gco:CharacterString>https://imtpolicy.sp.alberta.ca/standards/Pages/Data-and-Information-Security-Classification.aspx</gco:CharacterString>
+</handlingDescription>
+</MD_SecurityConstraints>
+</resourceConstraints>
+<aggregationInfo>
+<MD_AggregateInformation>
+<aggregateDataSetName>
+<CI_Citation>
+<title>
+<gco:CharacterString>Electoral Divisions</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2017-09-13</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Statistics Canada</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<otherCitationDetails>
+<gco:CharacterString>Source: Statistics Canada 2021 Census boundary files.</gco:CharacterString>
+</otherCitationDetails>
+</CI_Citation>
+</aggregateDataSetName>
+<associationType>
+<DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="source" codeSpace="ISOTC211/19115">source</DS_AssociationTypeCode>
+</associationType>
+</MD_AggregateInformation>
+</aggregationInfo>
+<aggregationInfo>
+<MD_AggregateInformation>
+<aggregateDataSetName>
+<CI_Citation>
+<title>
+<gco:CharacterString>Data tables, 2021 Census</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Tableaux de données, Recensement de 2021</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2018-04-04</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Statistics Canada</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<otherCitationDetails>
+<gco:CharacterString>Source: Statistics Canada 2021 Census Data Tables</gco:CharacterString>
+</otherCitationDetails>
+</CI_Citation>
+</aggregateDataSetName>
+<associationType>
+<DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="source" codeSpace="ISOTC211/19115">source</DS_AssociationTypeCode>
+</associationType>
+</MD_AggregateInformation>
+</aggregationInfo>
+<spatialRepresentationType>
+<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+</spatialRepresentationType>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<topicCategory>
+<MD_TopicCategoryCode>society</MD_TopicCategoryCode>
+</topicCategory>
+<topicCategory>
+<MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+</topicCategory>
+<topicCategory>
+<MD_TopicCategoryCode>economy</MD_TopicCategoryCode>
+</topicCategory>
+<environmentDescription>
+<gco:CharacterString>Microsoft Windows 10 Version 10.0 (Build 19044) ; Esri ArcGIS 13.0.2.36056</gco:CharacterString>
+</environmentDescription>
+<extent>
+<EX_Extent>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<extentTypeCode>
+<gco:Boolean>false</gco:Boolean>
+</extentTypeCode>
+<westBoundLongitude>
+<gco:Decimal>-120</gco:Decimal>
+</westBoundLongitude>
+<eastBoundLongitude>
+<gco:Decimal>-110</gco:Decimal>
+</eastBoundLongitude>
+<southBoundLatitude>
+<gco:Decimal>49</gco:Decimal>
+</southBoundLatitude>
+<northBoundLatitude>
+<gco:Decimal>60</gco:Decimal>
+</northBoundLatitude>
+</EX_GeographicBoundingBox>
+</geographicElement>
+</EX_Extent>
+</extent>
+<extent>
+<EX_Extent>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<extentTypeCode>
+<gco:Boolean>true</gco:Boolean>
+</extentTypeCode>
+<westBoundLongitude>
+<gco:Decimal>-120.001403</gco:Decimal>
+</westBoundLongitude>
+<eastBoundLongitude>
+<gco:Decimal>-110.004777</gco:Decimal>
+</eastBoundLongitude>
+<southBoundLatitude>
+<gco:Decimal>48.996674</gco:Decimal>
+</southBoundLatitude>
+<northBoundLatitude>
+<gco:Decimal>60.00047</gco:Decimal>
+</northBoundLatitude>
+</EX_GeographicBoundingBox>
+</geographicElement>
+</EX_Extent>
+</extent>
+</MD_DataIdentification>
+</identificationInfo>
+<contentInfo>
+<MD_FeatureCatalogueDescription>
+<complianceCode>
+<gco:Boolean>false</gco:Boolean>
+</complianceCode>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<includedWithDataset>
+<gco:Boolean>true</gco:Boolean>
+</includedWithDataset>
+<featureTypes gco:nilReason="missing">
+</featureTypes>
+<featureCatalogueCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Census Profiles by Electoral Division - Current</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2019-03-25</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Treasury Board and Finance, Government of Alberta</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Data and GIS Services, Office of Statistics and Information</gco:CharacterString>
+</positionName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+</CI_Citation>
+</featureCatalogueCitation>
+</MD_FeatureCatalogueDescription>
+</contentInfo>
+<distributionInfo>
+<MD_Distribution>
+<distributionFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>10.7.1</gco:CharacterString>
+</version>
+<specification>
+<gco:CharacterString>SHP</gco:CharacterString>
+</specification>
+<fileDecompressionTechnique>
+<gco:CharacterString>ZIP</gco:CharacterString>
+</fileDecompressionTechnique>
+</MD_Format>
+</distributionFormat>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Alberta Environment and Protected Areas, Government of Alberta</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Provincial Geospatial Centre</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>7804277374</gco:CharacterString>
+</voice>
+<facsimile>
+<gco:CharacterString>7804220712</gco:CharacterString>
+</facsimile>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>14th Floor, Oxbridge Place</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>9820 - 106 Street NW</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Edmonton</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Alberta</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>T5K 2J6</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA" codeSpace="ISO3166-1">CA</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>AEP.Data@gov.ab.ca</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+</MD_Distributor>
+</distributor>
+<transferOptions>
+<MD_DigitalTransferOptions>
+<onLine>
+<CI_OnlineResource>
+<linkage>
+<URL>https://geospatial.alberta.ca/titan/rest/services/census/census_profiles_by_electoral_division_2021/MapServer</URL>
+</linkage>
+<protocol>
+<gco:CharacterString>REST</gco:CharacterString>
+</protocol>
+<name>
+<gco:CharacterString>census/census_profiles_by_electoral_division_2021 (MapServer)</gco:CharacterString>
+</name>
+<description>
+<gco:CharacterString>Web map service for current Provincial Electoral Divisions or PEDs</gco:CharacterString>
+</description>
+<function>
+<CI_OnLineFunctionCode codeList="http://www.fgdc.gov/nap/metadata/register/codelists.html#napCI_OnLineFunctionCode" codeListValue="webService" codeSpace="ISOTC211/19139/NAP">webService</CI_OnLineFunctionCode>
+</function>
+</CI_OnlineResource>
+</onLine>
+<onLine>
+<CI_OnlineResource>
+<linkage>
+<URL>https://geospatial.alberta.ca/titan/rest/services/census/census_profiles_by_electoral_division_2021/MapServer/WMS</URL>
+</linkage>
+<protocol>
+<gco:CharacterString>WMS</gco:CharacterString>
+</protocol>
+<name>
+<gco:CharacterString>census/census_profiles_by_electoral_division_2021 (WebMapServer)</gco:CharacterString>
+</name>
+<description>
+<gco:CharacterString>Web map service for current Provincial Electoral Divisions or PEDs</gco:CharacterString>
+</description>
+<function>
+<CI_OnLineFunctionCode codeList="http://www.fgdc.gov/nap/metadata/register/codelists.html#napCI_OnLineFunctionCode" codeListValue="webMapService" codeSpace="ISOTC211/19139/NAP">webMapService</CI_OnLineFunctionCode>
+</function>
+</CI_OnlineResource>
+</onLine>
+</MD_DigitalTransferOptions>
+</transferOptions>
+<transferOptions>
+<MD_DigitalTransferOptions>
+<unitsOfDistribution>
+<gco:CharacterString>MB</gco:CharacterString>
+</unitsOfDistribution>
+<transferSize>
+<gco:Real>3</gco:Real>
+</transferSize>
+<onLine>
+<CI_OnlineResource>
+<linkage>
+<URL>https://extranet.gov.ab.ca/srd/geodiscover/srd_pub/society/AlbertaCensusProfilesElectoralDivision_Current.zip</URL>
+</linkage>
+<protocol>
+<gco:CharacterString>FTP</gco:CharacterString>
+</protocol>
+<name>
+<gco:CharacterString>Census Profiles by Electoral Division - Current (SHP)</gco:CharacterString>
+</name>
+<description>
+<gco:CharacterString>Shapefile containing Census Profiles by Electoral Division - Current dataset (ZIP)</gco:CharacterString>
+</description>
+<function>
+<CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+</function>
+</CI_OnlineResource>
+</onLine>
+</MD_DigitalTransferOptions>
+</transferOptions>
+</MD_Distribution>
+</distributionInfo>
+<dataQualityInfo>
+<DQ_DataQuality>
+<scope>
+<DQ_Scope>
+<level>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</level>
+</DQ_Scope>
+</scope>
+<lineage>
+<LI_Lineage>
+<statement>
+<gco:CharacterString>This dataset was created by integrating 2021 census tables with 2021 electoral division boundary files. The result is a set of feature layers depicting socio-economic indicators.</gco:CharacterString>
+</statement>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>Creation
+- Boundary of 2019 Provincial Electoral Divisions created by Elections Alberta and downloaded from GeoDiscover Alberta
+- Provincial Electoral Division profile data is a custom data order from Statistics Canada</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2023-04-13T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>Jason Lee</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>Office of Statistics and Information</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Geospatial Data Analyst</gco:CharacterString>
+</positionName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>The Provincial Electoral Division boundaries used for the 2021 Census are based on the 2023 Representation Order.</gco:CharacterString>
+</description>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Provincial Electoral Divisions</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2016-09-13</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+</CI_Citation>
+</sourceCitation>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>Data tables, 2021 Census About the 2021 Census Data tables: This series of cross-tabulations will present a portrait of Canada based on the various census topics. They will range in complexity and will be available for various levels of geography. A number of the tabulations will be available on each official day of release for each topic, while others will follow several months later. Content varies from: A simple overview of the country Simple to more complex cross-tabulations Current and previous census data.</gco:CharacterString>
+</description>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>2021 Census Data tables</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2018-09-26</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+</CI_Citation>
+</sourceCitation>
+</LI_Source>
+</source>
+</LI_Lineage>
+</lineage>
+</DQ_DataQuality>
+</dataQualityInfo>
+<metadataMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+</MD_MaintenanceInformation>
+</metadataMaintenance>
+</MD_Metadata>

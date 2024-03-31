@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileIdentifier>
+    <gco:CharacterString>4D939041-851B-4848-BD30-44DBF129E16C</gco:CharacterString>
+  </fileIdentifier>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</hierarchyLevelName>
+<contact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Treasury Board and Finance, Government of Alberta</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Data and GIS Services, Office of Statistics and Information</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Federal Building, Eighth Floor</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>9820 - 107 Street</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Edmonton</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Alberta</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>T5K 1E7</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA" codeSpace="ISO3166-1">CA</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>osi.support@gov.ab.ca</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>8:30 - 16:30 Monday to Friday</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Queries about the creation and/or characteristics of the data set submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Boundaries - Current".</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+<dateStamp>
+<gco:Date>2022-05-24</gco:Date>
+</dateStamp>
+<metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</metadataStandardVersion>
+<spatialRepresentationInfo>
+<MD_VectorSpatialRepresentation>
+<topologyLevel>
+<MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+</topologyLevel>
+</MD_VectorSpatialRepresentation>
+</spatialRepresentationInfo>
+<referenceSystemInfo>
+<MD_ReferenceSystem>
+<referenceSystemIdentifier>
+<RS_Identifier>
+<code>
+<gco:CharacterString>3400</gco:CharacterString>
+</code>
+<codeSpace>
+<gco:CharacterString>EPSG</gco:CharacterString>
+</codeSpace>
+<version>
+<gco:CharacterString>8.6.2</gco:CharacterString>
+</version>
+</RS_Identifier>
+</referenceSystemIdentifier>
+</MD_ReferenceSystem>
+</referenceSystemInfo>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Alberta Census Boundaries - Current</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2022-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Treasury Board and Finance, Government of Alberta</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Data and GIS Services, Office of Statistics and Information</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Federal Building, Eighth Floor</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>9820 - 107 Street</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Edmonton</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Alberta</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>T5K 1E7</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA" codeSpace="ISO3166-1">CA</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>osi.support@gov.ab.ca</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString> 8:30 - 16:30 Monday to Friday</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Queries about the creation and/or characteristics of the metadata submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Boundaries - Current." For Distribution Information contact instructions, refer to the Distribution Information section of this metadata record.</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>This downloadable data service includes the federal boundary files from the most recent census year. The official boundaries are updated every 5 years with the census and should be considered the most recent official boundaries. Layers in each geodatabase include Economic Regions, Census Divisions, Census Subdivisions, Census Metropolitan Areas and Census Agglomerations, Census Tracts, and Dissemination Areas. The current boundaries are from the 2021 Census of population. For intercensal boundaries, please see the intercensus boundary record. This information is adapted from Statistics Canada, Boundary files in their respective years. This does not constitute an endorsement by Statistics Canada of this product.</gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>This record contains current census geographic boundaries for reference use.</gco:CharacterString>
+</purpose>
+<credit>
+<gco:CharacterString>Adapted from: Statistics Canada, 2021 Census - Boundary Files. This does not constitute an endorsement by Statistics Canada of this product.</gco:CharacterString>
+</credit>
+<pointOfContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Treasury Board and Finance, Government of Alberta</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Data and GIS Services, Office of Statistics and Information</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Federal Building, Eighth Floor</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>9820 - 107 Street</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Edmonton</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Alberta</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>T5K 1E7</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA" codeSpace="ISO3166-1">CA</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>osi.support@gov.ab.ca</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>8:30 - 16:30 Monday to Friday</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Queries about the creation and/or characteristics of the data set submitted through electronic mail must include the salutation "Attention: Data and GIS Services; Dataset: Alberta Census Boundaries - Current".</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Alberta, Canada</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+</type>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword><gco:CharacterString>Census</gco:CharacterString></keyword>
+<keyword><gco:CharacterString>Census Boundaries</gco:CharacterString></keyword>
+<keyword><gco:CharacterString>Census Divisions</gco:CharacterString></keyword>
+<keyword><gco:CharacterString>Census Subdivisions</gco:CharacterString></keyword>
+<keyword><gco:CharacterString>Census Tracts</gco:CharacterString></keyword>
+<keyword><gco:CharacterString>Census Metropolitan Areas</gco:CharacterString></keyword>
+<keyword><gco:CharacterString>Dissemination Area</gco:CharacterString></keyword>
+<type><MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode></type>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword><gco:CharacterString>Downloadable Data</gco:CharacterString></keyword>
+<thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"></thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<resourceConstraints>
+        <MD_LegalConstraints>
+          <accessConstraints>
+            <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+          </accessConstraints>
+          <otherConstraints>
+            <gco:CharacterString>Your use of this information will be governed by the terms of the Open Government Licence - Alberta, in force as of the date you accessed the information, found at https://open.alberta.ca/licence</gco:CharacterString>
+          </otherConstraints>
+        </MD_LegalConstraints>
+      </resourceConstraints>
+      <resourceConstraints>
+        <MD_LegalConstraints>
+          <useConstraints>
+            <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115">license</MD_RestrictionCode>
+          </useConstraints>
+          <otherConstraints>
+            <gco:CharacterString>To access the data you must agree to the terms of the Open Government Licence - Alberta.</gco:CharacterString>
+          </otherConstraints>
+        </MD_LegalConstraints>
+      </resourceConstraints>
+      <resourceConstraints>
+        <MD_LegalConstraints>
+          <useLimitation>
+            <gco:CharacterString>Distribution Liability: Under the terms of the Open Government Licence - Alberta, the Information is licensed as is, and the Information Provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law. The Information Provider is not liable for any errors or omissions in the Information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage.</gco:CharacterString>
+          </useLimitation>
+        </MD_LegalConstraints>
+      </resourceConstraints>
+      <resourceConstraints>
+        <MD_SecurityConstraints>
+          <classification>
+            <MD_ClassificationCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified" codeSpace="ISOTC211/19115">unclassified</MD_ClassificationCode>
+          </classification>
+          <userNote>
+            <gco:CharacterString>Public/Unrestricted</gco:CharacterString>
+          </userNote>
+          <classificationSystem>
+            <gco:CharacterString>Government of Alberta Data and Information Security Classification</gco:CharacterString>
+          </classificationSystem>
+          <handlingDescription>
+            <gco:CharacterString>https://imtpolicy.sp.alberta.ca/standards/pdf/Data-and-Information-Security-Classification-Standard.pdf</gco:CharacterString>
+          </handlingDescription>
+        </MD_SecurityConstraints>
+</resourceConstraints>
+<spatialRepresentationType>
+<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+</spatialRepresentationType>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<topicCategory>
+<MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+</topicCategory>
+<extent>
+<EX_Extent>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>
+<gco:Decimal>-115.12022</gco:Decimal>
+</westBoundLongitude>
+<eastBoundLongitude>
+<gco:Decimal>-109.437459</gco:Decimal>
+</eastBoundLongitude>
+<southBoundLatitude>
+<gco:Decimal>48.973107</gco:Decimal>
+</southBoundLatitude>
+<northBoundLatitude>
+<gco:Decimal>54.03343</gco:Decimal>
+</northBoundLatitude>
+</EX_GeographicBoundingBox>
+</geographicElement>
+</EX_Extent>
+</extent>
+      <supplementalInformation>
+        <gco:CharacterString>Layer Definitions: An economic region (ER) is a grouping of complete census divisions (CDs), with one exception in Ontario, created as a standard geographic unit for analysis of regional economic activity. Census division (CD) is the general term for provincially legislated areas (such as county, municipalité régionale de comté (MRC) and regional district) or their equivalents. In other provinces and the territories where laws do not provide for such areas, Statistics Canada defines equivalent areas for statistical reporting purposes in cooperation with these provinces and territories. Census divisions are intermediate geographic areas between the province/territory level and the municipality (census subdivision). Census subdivision (CSD) is the general term for municipalities (as determined by provincial/territorial legislation) or areas treated as municipal equivalents for statistical purposes (e.g., Indian reserves, Indian settlements and unorganized territories). Municipal status is defined by laws in effect in each province and territory in Canada. A census metropolitan area (CMA) or a census agglomeration (CA) is formed by one or more adjacent municipalities centred on a population centre (known as the core). A CMA must have a total population of at least 100,000, based on data from the current Census of Population Program, of which 50,000 or more must live in the core based on adjusted data from the previous Census of Population Program. A CA must have a core population of at least 10,000 also based on data from the previous Census of Population Program. To be included in the CMA or CA, other adjacent municipalities must have a high degree of integration with the core, as measured by commuting flows derived from data on place of work from the previous Census Program. If the population of the core of a CA falls below 10,000, the CA is retired from the next census. However, once an area becomes a CMA, it is retained as a CMA even if its total population declines below 100,000 or the population of its core falls below 50,000. All areas inside the CMA or CA that are not population centres are rural areas. When a CA has a core of at least 50,000, based on data from the previous Census of Population, it is subdivided into census tracts. Census tracts are maintained for the CA even if the population of the core subsequently falls below 50,000. All CMAs are subdivided into census tracts. Census tracts (CTs) are small, relatively stable geographic areas that usually have a population of fewer than 7,500 persons, based on data from the previous Census of Population Program. They are located in census metropolitan areas (CMAs) and in census agglomerations (CAs) that had a core population of 50,000 or more in the previous census. A committee of local specialists (for example, municipal planners and others) initially delineates CTs in conjunction with Statistics Canada. Once a CMA or CA has been subdivided into CTs, the CTs are maintained even if the core population subsequently declines below 50,000. A dissemination area (DA) is a small, relatively stable geographic unit composed of one or more adjacent dissemination blocks with an average population of 400 to 700 persons based on data from the previous Census of Population Program. It is the smallest standard geographic area for which all census data are disseminated. DAs cover all the territory of Canada.</gco:CharacterString>
+      </supplementalInformation>
+</MD_DataIdentification>
+</identificationInfo>
+<contentInfo>
+<MD_FeatureCatalogueDescription>
+<complianceCode>
+<gco:Boolean>false</gco:Boolean>
+</complianceCode>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<includedWithDataset>
+<gco:Boolean>false</gco:Boolean>
+</includedWithDataset>
+<featureCatalogueCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Alberta Census Boundaries - Current (FGDB)</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2022-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+</CI_Citation>
+</featureCatalogueCitation>
+<featureCatalogueCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Alberta Census Boundaries - Current (SHP)</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2022-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+</CI_Citation>
+</featureCatalogueCitation>
+</MD_FeatureCatalogueDescription>
+</contentInfo>
+<distributionInfo>
+<MD_Distribution>
+<distributionFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>ESRI File Geodatabase</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>10.7.1</gco:CharacterString>
+</version>
+<specification>
+<gco:CharacterString>FGDB</gco:CharacterString>
+</specification>
+<fileDecompressionTechnique>
+<gco:CharacterString>ZIP</gco:CharacterString>
+</fileDecompressionTechnique>
+</MD_Format>
+</distributionFormat>
+<distributionFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>10.7.1</gco:CharacterString>
+</version>
+<specification>
+<gco:CharacterString>SHP</gco:CharacterString>
+</specification>
+<fileDecompressionTechnique>
+<gco:CharacterString>ZIP</gco:CharacterString>
+</fileDecompressionTechnique>
+</MD_Format>
+</distributionFormat>
+      <distributor>
+        <MD_Distributor>
+          <distributorContact>
+            <CI_ResponsibleParty>
+              <organisationName>
+                <gco:CharacterString>Alberta Environment and Parks, Government of Alberta</gco:CharacterString>
+              </organisationName>
+              <positionName>
+                <gco:CharacterString>Provincial Geospatial Centre</gco:CharacterString>
+              </positionName>
+              <contactInfo>
+                <CI_Contact>
+                  <phone>
+                    <CI_Telephone>
+                      <voice>
+                        <gco:CharacterString>7804277374</gco:CharacterString>
+                      </voice>
+                      <facsimile>
+                        <gco:CharacterString>7804220712</gco:CharacterString>
+                      </facsimile>
+                    </CI_Telephone>
+                  </phone>
+                  <address>
+                    <CI_Address>
+                      <deliveryPoint>
+                        <gco:CharacterString>9820 - 106 Street NW</gco:CharacterString>
+                      </deliveryPoint>
+                      <deliveryPoint>
+                        <gco:CharacterString>14th Floor, Oxbridge Place</gco:CharacterString>
+                      </deliveryPoint>
+                      <city>
+                        <gco:CharacterString>Edmonton</gco:CharacterString>
+                      </city>
+                      <administrativeArea>
+                        <gco:CharacterString>Alberta</gco:CharacterString>
+                      </administrativeArea>
+                      <postalCode>
+                        <gco:CharacterString>T5K 2J6</gco:CharacterString>
+                      </postalCode>
+                      <country>
+                        <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CA" codeSpace="ISO3166-1">CA</Country>
+                      </country>
+                      <electronicMailAddress>
+                        <gco:CharacterString>AEP.Data@gov.ab.ca</gco:CharacterString>
+                      </electronicMailAddress>
+                    </CI_Address>
+                  </address>
+                </CI_Contact>
+              </contactInfo>
+              <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+              </role>
+            </CI_ResponsibleParty>
+          </distributorContact>
+        </MD_Distributor>
+      </distributor>
+	  <transferOptions>
+        <MD_DigitalTransferOptions>
+		<unitsOfDistribution>
+            <gco:CharacterString>MB</gco:CharacterString>
+          </unitsOfDistribution>
+          <transferSize>
+            <gco:Real>25</gco:Real>
+          </transferSize>
+          <onLine>
+            <CI_OnlineResource>
+              <linkage>
+                <URL>https://extranet.gov.ab.ca/srd/geodiscover/srd_pub/boundaries/census/Alberta_Census_Boundaries_FGDB.zip</URL>
+              </linkage>
+              <protocol>
+                <gco:CharacterString>FTP</gco:CharacterString>
+              </protocol>
+              <name>
+                <gco:CharacterString>Alberta Census Boundaries (FGDB)</gco:CharacterString>
+              </name>
+              <description>
+                <gco:CharacterString>FGDB containing current federal census boundaries data (ZIP)</gco:CharacterString>
+              </description>
+              <function>
+                <CI_OnLineFunctionCode codeList="http://www.fgdc.gov/nap/metadata/register/codelists.html#napCI_OnLineFunctionCode" codeListValue="webService" codeSpace="ISOTC211/19139/NAP">webService</CI_OnLineFunctionCode>
+              </function>
+            </CI_OnlineResource>
+          </onLine>
+        </MD_DigitalTransferOptions>
+      </transferOptions>
+	  <transferOptions>
+        <MD_DigitalTransferOptions>
+		<unitsOfDistribution>
+            <gco:CharacterString>MB</gco:CharacterString>
+          </unitsOfDistribution>
+          <transferSize>
+            <gco:Real>25</gco:Real>
+          </transferSize>
+          <onLine>
+            <CI_OnlineResource>
+              <linkage>
+                <URL>https://extranet.gov.ab.ca/srd/geodiscover/srd_pub/boundaries/census/Alberta_Census_Boundaries_SHP.zip</URL>
+              </linkage>
+              <protocol>
+                <gco:CharacterString>FTP</gco:CharacterString>
+              </protocol>
+              <name>
+                <gco:CharacterString>Alberta Census Boundaries (SHP)</gco:CharacterString>
+              </name>
+              <description>
+                <gco:CharacterString>SHP containing current federal census boundaries data (ZIP)</gco:CharacterString>
+              </description>
+              <function>
+                <CI_OnLineFunctionCode codeList="http://www.fgdc.gov/nap/metadata/register/codelists.html#napCI_OnLineFunctionCode" codeListValue="webService" codeSpace="ISOTC211/19139/NAP">webService</CI_OnLineFunctionCode>
+              </function>
+            </CI_OnlineResource>
+          </onLine>
+        </MD_DigitalTransferOptions>
+      </transferOptions>
+</MD_Distribution>
+</distributionInfo>
+<dataQualityInfo>
+<DQ_DataQuality>
+<scope>
+<DQ_Scope>
+<level>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</level>
+<levelDescription>
+<MD_ScopeDescription>
+<dataset>
+<gco:CharacterString>2021 Census - Boundary files, Economic Regions</gco:CharacterString>
+</dataset>
+</MD_ScopeDescription>
+</levelDescription>
+<levelDescription>
+<MD_ScopeDescription>
+<dataset>
+<gco:CharacterString>2021 Census - Boundary files, Census Divsions</gco:CharacterString>
+</dataset>
+</MD_ScopeDescription>
+</levelDescription>
+<levelDescription>
+<MD_ScopeDescription>
+<dataset>
+<gco:CharacterString>2021 Census - Boundary files, Census Subdivisions</gco:CharacterString>
+</dataset>
+</MD_ScopeDescription>
+</levelDescription>
+<levelDescription>
+<MD_ScopeDescription>
+<dataset>
+<gco:CharacterString>2021 Census - Boundary files, Census Tracts</gco:CharacterString>
+</dataset>
+</MD_ScopeDescription>
+</levelDescription>
+<levelDescription>
+<MD_ScopeDescription>
+<dataset>
+<gco:CharacterString>2021 Census - Boundary files, Census Metropolitan Areas</gco:CharacterString>
+</dataset>
+</MD_ScopeDescription>
+</levelDescription>
+<levelDescription>
+<MD_ScopeDescription>
+<dataset>
+<gco:CharacterString>2021 Census - Boundary files, Dissemination Areas</gco:CharacterString>
+</dataset>
+</MD_ScopeDescription>
+</levelDescription>
+</DQ_Scope>
+</scope>
+<lineage>
+<LI_Lineage>
+<statement>
+<gco:CharacterString>Adapted from Statistics Canada, 2021 Census - Boundary files. This does not constitute an endorsement by Statistics Canada of this product.</gco:CharacterString>
+</statement>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>1. extracted from Statistics Canada's boundaries for Alberta
+2. projected to NAD_1983_10TM_AEP_Forest</gco:CharacterString>
+</description>
+</LI_ProcessStep>
+</processStep>
+</LI_Lineage>
+</lineage>
+</DQ_DataQuality>
+</dataQualityInfo>
+<metadataMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+</MD_MaintenanceInformation>
+</metadataMaintenance>
+</MD_Metadata>
